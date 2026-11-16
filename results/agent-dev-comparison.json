@@ -1,0 +1,122 @@
+{
+  "dense-k3-b2400-s3": {
+    "n": 24,
+    "errors": 0,
+    "context_evidence": 19,
+    "answerable": 22,
+    "answered_answerable": 21,
+    "abstained_unanswerable": 1,
+    "unanswerable": 2,
+    "cited_gold": 19,
+    "answered": 21,
+    "correct_behaviour": 22,
+    "avg_searches": 3,
+    "llm_calls": 96,
+    "tokens_in": 100363,
+    "tokens_out": 4792,
+    "median_elapsed_s": 15.94,
+    "misses": {
+      "context": [
+        "q16",
+        "q17",
+        "q21"
+      ],
+      "false_abstain": [
+        "q17"
+      ],
+      "not_abstained": [
+        "u02"
+      ],
+      "cited_not_gold": [
+        "q16",
+        "q21"
+      ]
+    }
+  },
+  "dense-orig-early": {
+    "n": 24,
+    "errors": 0,
+    "context_evidence": 21,
+    "answerable": 22,
+    "answered_answerable": 22,
+    "abstained_unanswerable": 1,
+    "unanswerable": 2,
+    "cited_gold": 21,
+    "answered": 22,
+    "correct_behaviour": 23,
+    "avg_searches": 1.33,
+    "llm_calls": 32,
+    "tokens_in": 39900,
+    "tokens_out": 3260,
+    "median_elapsed_s": 4.17,
+    "misses": {
+      "context": [
+        "q21"
+      ],
+      "false_abstain": [],
+      "not_abstained": [
+        "u02"
+      ],
+      "cited_not_gold": [
+        "q21"
+      ]
+    }
+  },
+  "dense-orig-early-strict": {
+    "n": 24,
+    "errors": 0,
+    "context_evidence": 21,
+    "answerable": 22,
+    "answered_answerable": 21,
+    "abstained_unanswerable": 2,
+    "unanswerable": 2,
+    "cited_gold": 19,
+    "answered": 21,
+    "correct_behaviour": 23,
+    "avg_searches": 1.38,
+    "llm_calls": 33,
+    "tokens_in": 42984,
+    "tokens_out": 3134,
+    "median_elapsed_s": 4.05,
+    "misses": {
+      "context": [
+        "q21"
+      ],
+      "false_abstain": [
+        "q07"
+      ],
+      "not_abstained": [],
+      "cited_not_gold": [
+        "q19",
+        "q21"
+      ]
+    }
+  },
+  "hybrid-orig-early-strict": {
+    "n": 24,
+    "errors": 0,
+    "context_evidence": 21,
+    "answerable": 22,
+    "answered_answerable": 21,
+    "abstained_unanswerable": 2,
+    "unanswerable": 2,
+    "cited_gold": 21,
+    "answered": 21,
+    "correct_behaviour": 23,
+    "avg_searches": 1.58,
+    "llm_calls": 38,
+    "tokens_in": 49939,
+    "tokens_out": 3174,
+    "median_elapsed_s": 4.3,
+    "misses": {
+      "context": [
+        "q21"
+      ],
+      "false_abstain": [
+        "q21"
+      ],
+      "not_abstained": [],
+      "cited_not_gold": []
+    }
+  }
+}

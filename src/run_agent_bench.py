@@ -57,15 +57,20 @@ def main() -> None:
     ap.add_argument("--top-k", type=int, default=3)
     ap.add_argument("--budget", type=int, default=2400)
     ap.add_argument("--max-searches", type=int, default=3)
+    ap.add_argument("--first-query", default="model", choices=("model", "original"))
+    ap.add_argument("--early-stop", action="store_true")
+    ap.add_argument("--strict-abstain", action="store_true")
     ap.add_argument("--only", help="comma-separated question ids (debug)")
     args = ap.parse_args()
 
     all_cases = json.loads((ROOT / "data/cases.json").read_text(encoding="utf-8"))
     cases = [c for c in all_cases if c["split"] == args.split and (not args.only or c["id"] in args.only.split(","))]
     retriever = make_retriever(args.retriever)
-    controller = GeminiController(max_searches=args.max_searches)
+    controller = GeminiController(max_searches=args.max_searches, first_query=args.first_query,
+                                  early_stop=args.early_stop, strict_abstain=args.strict_abstain)
     config = {"split": args.split, "retriever": args.retriever, "model": controller.model, "top_k": args.top_k,
-              "budget_chars": args.budget, "max_searches": args.max_searches, "temperature": 0}
+              "budget_chars": args.budget, "max_searches": args.max_searches, "temperature": 0,
+              "first_query": args.first_query, "early_stop": args.early_stop, "strict_abstain": args.strict_abstain}
     out = ROOT / "results" / f"agent-{args.split}-{args.name}"
     out.mkdir(parents=True, exist_ok=True)
 

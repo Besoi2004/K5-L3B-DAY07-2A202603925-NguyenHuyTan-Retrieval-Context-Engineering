@@ -1,0 +1,25 @@
+{
+  "locked_at": "2026-11-16",
+  "split_used": "dev",
+  "criteria": "results/selection_criteria.md (written before the improvement runs): 1 context evidence > 2 correct behaviour > 3 cited gold > 4 tokens/time",
+  "selected": "hybrid-orig-early-strict",
+  "baseline_for_test": "dense-k3-b2400-s3",
+  "selected_config": {
+    "retriever": "hybrid_rrf (dense embeddinggemma-2 on Day 6 index B + BM25, RRF k=60, 20 candidates each)",
+    "model": "gemini-3.5-flash-lite", "temperature": 0, "top_k": 3, "budget_chars": 2400, "max_searches": 3,
+    "first_query": "original", "early_stop": true, "strict_abstain": true,
+    "command": ".venv/Scripts/python src/run_agent_bench.py --split test --name hybrid-orig-early-strict --retriever hybrid_rrf --first-query original --early-stop --strict-abstain"
+  },
+  "dev_results": {
+    "dense-k3-b2400-s3":        {"context_evidence": "19/22", "correct_behaviour": "22/24", "abstain": "1/2", "cited_gold": "19/21", "llm_calls": 96, "tokens": 105155, "median_s": 15.94},
+    "dense-orig-early":         {"context_evidence": "21/22", "correct_behaviour": "23/24", "abstain": "1/2", "cited_gold": "21/22", "llm_calls": 32, "tokens": 43160,  "median_s": 4.17},
+    "dense-orig-early-strict":  {"context_evidence": "21/22", "correct_behaviour": "23/24", "abstain": "2/2", "cited_gold": "19/21", "llm_calls": 33, "tokens": 46118,  "median_s": 4.05},
+    "hybrid-orig-early-strict": {"context_evidence": "21/22", "correct_behaviour": "23/24", "abstain": "2/2", "cited_gold": "21/21", "llm_calls": 38, "tokens": 53113,  "median_s": 4.30}
+  },
+  "decision": "Criteria 1 and 2 tie (21/22, 23/24) for the three improvements; criterion 3 picks hybrid (21/21 answered questions cite a gold chunk). It costs ~23% more tokens than dense-orig-early, accepted because cost is criterion 4.",
+  "caveats": [
+    "24 dev questions: one question = ~4 percentage points; not statistically conclusive.",
+    "cited_gold is an automatic proxy; manual citation review still required (e.g. strict q19 answer looks correct but cites a chunk without the exact gold quote).",
+    "hybrid's only false abstention is q21, where no config retrieved the right Mau 04 chunk; dense-orig-early 'answered' q21 by citing Mau 05 (p36), i.e. a wrong source."
+  ]
+}

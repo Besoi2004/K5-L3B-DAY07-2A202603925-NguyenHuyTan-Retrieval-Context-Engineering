@@ -34,9 +34,19 @@ Quy tắc bắt buộc:
 5. Văn bản là bản OCR nên có thể sai dấu hoặc chính tả; hiểu theo nghĩa nhưng không bịa thêm.
 Trả lời bằng tiếng Việt, ngắn gọn, đúng trọng tâm câu hỏi."""
 
+# Improvement 2 (u02): near-topic questions asking for a number the document does not give.
+STRICT_RULE = """
+6. Nếu câu hỏi hỏi một con số, mức tiền, thời hạn hay tiêu chuẩn cụ thể mà context chỉ có quy định chung,
+   không có đúng thông tin đó, hãy gọi `abstain` và nêu rõ tài liệu không quy định điều được hỏi."""
+
 
 class GeminiController:
-    def __init__(self, model: str | None = None, max_searches: int = 3, min_interval: float | None = None):
+    def __init__(self, model: str | None = None, max_searches: int = 3, min_interval: float | None = None,
+                 first_query: str = "model", early_stop: bool = False, strict_abstain: bool = False):
+        """first_query='original': first search uses the question verbatim (no LLM call);
+        early_stop: prompt invites answering as soon as context suffices; strict_abstain: add STRICT_RULE."""
+        self.first_query, self.early_stop = first_query, early_stop
+        self.system = SYSTEM + (STRICT_RULE if strict_abstain else "")
         from google import genai
         from google.genai import types
         if not os.getenv("GEMINI_API_KEY"):
@@ -66,7 +76,13 @@ class GeminiController:
         h = history[-1]
         left = self.max_searches - len(h["queries"])
         allowed = ["search", "final_answer", "abstain"] if left > 0 else ["final_answer", "abstain"]
-        note = f"Còn {left} lượt tìm." if left > 0 else "Đã hết lượt tìm: phải gọi `final_answer` hoặc `abstain`."
+        if left <= 0:
+            note = "Đã hết lượt tìm: phải gọi `final_answer` hoặc `abstain`."
+        elif self.early_stop:
+            note = (f"Nếu context đã đủ để trả lời, gọi `final_answer` ngay. Chỉ `search` thêm (còn {left} lượt) "
+                    "với query khác khi context còn thiếu thông tin.")
+        else:
+            note = f"Còn {left} lượt tìm."
         return (f"Câu hỏi: {question}\n\nCác query đã tìm: {h['queries']}\n"
                 f"<context>\n{h['context'] or '(không có kết quả)'}\n</context>\n{note}"), allowed
 
@@ -74,7 +90,7 @@ class GeminiController:
         from google.genai import errors
         t = self.types
         cfg = t.GenerateContentConfig(
-            system_instruction=SYSTEM, tools=self.tools, temperature=0,
+            system_instruction=self.system, tools=self.tools, temperature=0,
             automatic_function_calling=t.AutomaticFunctionCallingConfig(disable=True),
             tool_config=t.ToolConfig(function_calling_config=t.FunctionCallingConfig(
                 mode="ANY", allowed_function_names=allowed)))
@@ -91,6 +107,10 @@ class GeminiController:
                 time.sleep(min(60, 5 * 2 ** attempt))
 
     def decide(self, question: str, history: list[dict[str, Any]]) -> dict[str, Any]:
+        if not history and self.first_query == "original":
+            self.log.append({"function": "search", "args": {"query": question}, "source": "original_question",
+                             "latency_s": 0, "tokens_in": 0, "tokens_out": 0, "tokens_thought": 0})
+            return {"action": "search", "query": question}
         prompt, allowed = self._prompt(question, history)
         t0 = time.perf_counter()
         resp = self._generate(prompt, allowed)
