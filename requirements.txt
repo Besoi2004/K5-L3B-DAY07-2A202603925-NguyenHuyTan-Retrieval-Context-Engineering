@@ -1,0 +1,9 @@
+# Same versions as Day 6 for the embedding model and pgvector client
+psycopg[binary]==3.3.8
+python-dotenv>=1,<2
+sentence-transformers==6.3.0
+transformers==5.23.0
+torch==2.15.0
+torchvision==0.29.2
+# Agent LLM (Gemini API)
+google-genai
