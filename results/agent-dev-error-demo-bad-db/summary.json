@@ -1,0 +1,30 @@
+{
+  "split": "dev",
+  "retriever": "hybrid_rrf",
+  "model": "gemini-3.5-flash-lite",
+  "top_k": 3,
+  "budget_chars": 2400,
+  "max_searches": 3,
+  "temperature": 0,
+  "first_query": "original",
+  "early_stop": true,
+  "strict_abstain": true,
+  "n": 1,
+  "status": {
+    "error": 1
+  },
+  "tool_use": {
+    "n": 0,
+    "N": 0
+  },
+  "searches_distribution": {},
+  "answered_answerable": 0,
+  "abstained_unanswerable": 0,
+  "false_abstention": 0,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "median_elapsed_s": 5.18,
+  "cost_usd": 0,
+  "cost_note": "Gemini API free tier; token counts reported for paid-tier estimates",
+  "note": "answered/abstain are automatic; answer and citation quality need the manual review in review.md"
+}

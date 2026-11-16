@@ -1,0 +1,30 @@
+[
+ {
+  "status": "error",
+  "answer": null,
+  "citations": [],
+  "events": [],
+  "error": "ConnectionTimeout: connection timeout expired",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\Lab Vinuni\\K5-L3B-DAY07-2A202603925-NguyenHuyTan-Retrieval-Context-Engineering\\src\\run_agent_bench.py\", line 82, in main\n    r = run_agent(c[\"question\"], controller, retriever, filters=c.get(\"filter\"),\n                  max_searches=args.max_searches, top_k=args.top_k, budget=args.budget)\n  File \"D:\\Lab Vinuni\\K5-L3B-DAY07-2A202603925-NguyenHuyTan-Retrieval-Context-Engineering\\starter\\agentic.py\", line 54, in run_agent\n    results = retriever.search(query, filters=filters, top_k=top_k)\n  File \"D:\\Lab Vinuni\\K5-L3B-DAY07-2A202603925-NguyenHuyTan-Retrieval-Context-Engineering\\src\\retrievers.py\", line 75, in search\n    for rank, c in enumerate(r.search(query, filters=filters, top_k=self.candidates), 1):\n                             ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\npsycopg.errors.ConnectionTimeout: connection timeout expired\n",
+  "query_id": "q01",
+  "question": "Chủ thể dữ liệu là ai?",
+  "filter": null,
+  "model_calls": [
+   {
+    "function": "search",
+    "args": {
+     "query": "Chủ thể dữ liệu là ai?"
+    },
+    "source": "original_question",
+    "latency_s": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "tokens_thought": 0
+   }
+  ],
+  "elapsed_s": 5.18,
+  "n_searches": 0,
+  "tokens_in": 0,
+  "tokens_out": 0
+ }
+]

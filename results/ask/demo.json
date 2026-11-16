@@ -1,0 +1,246 @@
+[
+ {
+  "status": "answered",
+  "answer": "Có, chủ thể dữ liệu có quyền phản đối Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị, trừ trường hợp luật có quy định khác. [nd13-2023:p08:paragraph:000]",
+  "citations": [
+   "nd13-2023:p08:paragraph:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "Chủ thể dữ liệu có quyền phản đối việc xử lý dữ liệu cá nhân của mình không?",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p08:paragraph:000",
+      "text": "8. Quyền phản đối xử lý dữ liệu\n\na) Chủ thể dữ liệu được phản đối Bên Kiểm soát dữ liệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn\nchặn hoặc hạn chê tiết lộ dữ Hiệu cá nhân hoặc sử dụng cho mục đích quảng\ncáo, tiệp thị, trừ trường hợp luật có quy định khác;\n\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nthực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ\ntrường hợp luật có quy định khác.\n\n9. Quyên khiêu nại, tô cáo, khởi kiện\n\nChủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định\ncủa pháp luật.\n\n10. Quyền yêu cầu bồi thường thiệt hại",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 8,
+      "metadata": {
+       "dieu": 9,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 662,
+       "max_size": 800,
+       "dieu_list": [
+        9
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03227,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 3,
+       "bm25": 1
+      }
+     },
+     {
+      "id": "nd13-2023:p07:paragraph:001",
+      "text": "Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ\ntrường hợp luật có quy định khác.\n\n6. Quyền hạn chế xử lý dữ liệu\n\na) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác;\n\nb) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu\ncủa chủ thê dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thê dữ liệu yêu câu hạn\nchê, trừ trường hợp luật có quy định khác.\n\n7. Quyền cung cấp dữ liệu\n\nChủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 7,
+      "metadata": {
+       "dieu": 9,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1370,
+       "max_size": 800,
+       "dieu_list": [
+        9
+       ],
+       "char_start": 708,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03175,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 2,
+       "bm25": 4
+      }
+     },
+     {
+      "id": "nd13-2023:p07:paragraph:000",
+      "text": "Chươngl II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ DỮ LIỆU\nĐiều 9. Quyền của chủ thể dữ liệu.\n1. Quyền được biết\n\nChủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n2. Quyền đồng ý\n\nChủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n\n3. Quyền truy cập\n\nChủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa\ndữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.\n\n4. Quyền rút lại sự đồng ý\n\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp\nluật có quy định khác.\n\n5. Quyền xóa dữ liệu",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 7,
+      "metadata": {
+       "dieu": 9,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 708,
+       "max_size": 800,
+       "dieu_list": [
+        8,
+        9
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03037,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 9,
+       "bm25": 3
+      }
+     }
+    ],
+    "context": "[nd13-2023:p08:paragraph:000 | data/13nd.signed.pdf | page 8]\n8. Quyền phản đối xử lý dữ liệu\n\na) Chủ thể dữ liệu được phản đối Bên Kiểm soát dữ liệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn\nchặn hoặc hạn chê tiết lộ dữ Hiệu cá nhân hoặc sử dụng cho mục đích quảng\ncáo, tiệp thị, trừ trường hợp luật có quy định khác;\n\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nthực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ\ntrường hợp luật có quy định khác.\n\n9. Quyên khiêu nại, tô cáo, khởi kiện\n\nChủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định\ncủa pháp luật.\n\n10. Quyền yêu cầu bồi thường thiệt hại\n\n[nd13-2023:p07:paragraph:001 | data/13nd.signed.pdf | page 7]\nChủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ\ntrường hợp luật có quy định khác.\n\n6. Quyền hạn chế xử lý dữ liệu\n\na) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác;\n\nb) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu\ncủa chủ thê dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thê dữ liệu yêu câu hạn\nchê, trừ trường hợp luật có quy định khác.\n\n7. Quyền cung cấp dữ liệu\n\nChủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n[nd13-2023:p07:paragraph:000 | data/13nd.signed.pdf | page 7]\nChươngl II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ DỮ LIỆU\nĐiều 9. Quyền của chủ thể dữ liệu.\n1. Quyền được biết\n\nChủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n2. Quyền đồng ý\n\nChủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n\n3. Quyền truy cập\n\nChủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa\ndữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.\n\n4. Quyền rút lại sự đồng ý\n\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp\nluật có quy định khác.\n\n5. Quyền xóa dữ liệu",
+    "context_ids": [
+     "nd13-2023:p08:paragraph:000",
+     "nd13-2023:p07:paragraph:001",
+     "nd13-2023:p07:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Quyền phản đối xử lý dữ liệu",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p08:paragraph:000",
+      "text": "8. Quyền phản đối xử lý dữ liệu\n\na) Chủ thể dữ liệu được phản đối Bên Kiểm soát dữ liệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn\nchặn hoặc hạn chê tiết lộ dữ Hiệu cá nhân hoặc sử dụng cho mục đích quảng\ncáo, tiệp thị, trừ trường hợp luật có quy định khác;\n\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nthực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ\ntrường hợp luật có quy định khác.\n\n9. Quyên khiêu nại, tô cáo, khởi kiện\n\nChủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định\ncủa pháp luật.\n\n10. Quyền yêu cầu bồi thường thiệt hại",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 8,
+      "metadata": {
+       "dieu": 9,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 662,
+       "max_size": 800,
+       "dieu_list": [
+        9
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03279,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 1,
+       "bm25": 1
+      }
+     },
+     {
+      "id": "nd13-2023:p07:paragraph:000",
+      "text": "Chươngl II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ DỮ LIỆU\nĐiều 9. Quyền của chủ thể dữ liệu.\n1. Quyền được biết\n\nChủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n2. Quyền đồng ý\n\nChủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n\n3. Quyền truy cập\n\nChủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa\ndữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.\n\n4. Quyền rút lại sự đồng ý\n\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp\nluật có quy định khác.\n\n5. Quyền xóa dữ liệu",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 7,
+      "metadata": {
+       "dieu": 9,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 708,
+       "max_size": 800,
+       "dieu_list": [
+        8,
+        9
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03126,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 3,
+       "bm25": 5
+      }
+     },
+     {
+      "id": "nd13-2023:p09:paragraph:000",
+      "text": ": \"Mục 2 , -\nBẢO VỆ DỮ LIỆU CA NHÂN. -\nTRONG QUÁ TRÌNH XƯ LÝ DỮ LIỆU CÁ NHẮN\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n\n1.Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động\ntrong quy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.\n\n2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự\nnguyện và biết rõ các nội dung sau:\n\na) Loại dữ liệu cá nhân được xử lý;\n\nb) Mục đích xử lý dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\n\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu.\n\n3. Sự đồng ý của chủ thể dữ liệu phải được thể hiện rõ ràng, cụ thể bằng văn\nbản, giọng nói, đánh dâu vào ô đông ý, cú pháp đông ý qua tin nhăn, chọn các thiệt\nlập kỹ thuật đông ý hoặc qua một hành động khác thê hiện được điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 9,
+      "metadata": {
+       "dieu": 11,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 778,
+       "max_size": 800,
+       "dieu_list": [
+        10,
+        11
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03078,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 6,
+       "bm25": 4
+      }
+     }
+    ],
+    "context": "[nd13-2023:p08:paragraph:000 | data/13nd.signed.pdf | page 8]\n8. Quyền phản đối xử lý dữ liệu\n\na) Chủ thể dữ liệu được phản đối Bên Kiểm soát dữ liệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn\nchặn hoặc hạn chê tiết lộ dữ Hiệu cá nhân hoặc sử dụng cho mục đích quảng\ncáo, tiệp thị, trừ trường hợp luật có quy định khác;\n\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nthực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ\ntrường hợp luật có quy định khác.\n\n9. Quyên khiêu nại, tô cáo, khởi kiện\n\nChủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định\ncủa pháp luật.\n\n10. Quyền yêu cầu bồi thường thiệt hại\n\n[nd13-2023:p07:paragraph:001 | data/13nd.signed.pdf | page 7]\nChủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ\ntrường hợp luật có quy định khác.\n\n6. Quyền hạn chế xử lý dữ liệu\n\na) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác;\n\nb) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu\ncủa chủ thê dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thê dữ liệu yêu câu hạn\nchê, trừ trường hợp luật có quy định khác.\n\n7. Quyền cung cấp dữ liệu\n\nChủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n[nd13-2023:p07:paragraph:000 | data/13nd.signed.pdf | page 7]\nChươngl II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ DỮ LIỆU\nĐiều 9. Quyền của chủ thể dữ liệu.\n1. Quyền được biết\n\nChủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,\ntrừ trường hợp luật có quy định khác.\n\n2. Quyền đồng ý\n\nChủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n\n3. Quyền truy cập\n\nChủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa\ndữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.\n\n4. Quyền rút lại sự đồng ý\n\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp\nluật có quy định khác.\n\n5. Quyền xóa dữ liệu",
+    "context_ids": [
+     "nd13-2023:p08:paragraph:000",
+     "nd13-2023:p07:paragraph:001",
+     "nd13-2023:p07:paragraph:000"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "ask",
+  "question": "Chủ thể dữ liệu có quyền phản đối việc xử lý dữ liệu cá nhân của mình không?",
+  "filter": null,
+  "model_calls": [
+   {
+    "function": "search",
+    "args": {
+     "query": "Chủ thể dữ liệu có quyền phản đối việc xử lý dữ liệu cá nhân của mình không?"
+    },
+    "source": "original_question",
+    "latency_s": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "tokens_thought": 0
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.66,
+    "tokens_in": 1355,
+    "tokens_out": 21,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Quyền phản đối xử lý dữ liệu"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 1.28,
+    "tokens_in": 1364,
+    "tokens_out": 127,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "citations": [
+      "nd13-2023:p08:paragraph:000"
+     ],
+     "answer": "Có, chủ thể dữ liệu có quyền phản đối Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị, trừ trường hợp luật có quy định khác. [nd13-2023:p08:paragraph:000]"
+    }
+   }
+  ],
+  "elapsed_s": 6.44,
+  "n_searches": 2,
+  "tokens_in": 2719,
+  "tokens_out": 148
+ }
+]
