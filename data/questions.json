@@ -1,0 +1,392 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Chủ thể dữ liệu là ai?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 3,
+        "evidence": "Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh."
+      }
+    ],
+    "expected_answer": "Là cá nhân được dữ liệu cá nhân phản ánh.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Thông tin về nhóm máu có được xem là dữ liệu cá nhân nhạy cảm về sức khỏe không?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 2,
+        "evidence": "Tình trạng sức khỏe và đời tư được ghỉ trong hồ sơ bệnh án, không bao\ngôm thông tin về nhóm máu"
+      }
+    ],
+    "expected_answer": "Không. Tình trạng sức khỏe trong hồ sơ bệnh án là dữ liệu nhạy cảm nhưng không bao gồm thông tin về nhóm máu.",
+    "type": "ngoai_le"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Nếu người dùng không trả lời gì thì có được coi là đã đồng ý cho xử lý dữ liệu không?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 9,
+        "evidence": "Sự im lặng hoặc không phản hồi của chủ thể dữ liệu không được coi là\nsự đông ý."
+      }
+    ],
+    "expected_answer": "Không. Sự im lặng hoặc không phản hồi không được coi là sự đồng ý.",
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Khi phát hiện vi phạm quy định bảo vệ dữ liệu cá nhân, Bên Kiểm soát dữ liệu phải thông báo cho Bộ Công an trong thời hạn nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 17,
+        "evidence": "chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm theo Mẫu số\n03 tại Phụ lục của Nghị định này"
+      }
+    ],
+    "expected_answer": "Chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm, theo Mẫu số 03.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Nếu thông báo vi phạm gửi muộn hơn 72 giờ thì phải làm gì thêm?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 17,
+        "evidence": "Trường hợp thông báo sau 72 giờ thì phải\nkèm theo lý do thông báo chậm, muộn."
+      }
+    ],
+    "expected_answer": "Phải kèm theo lý do thông báo chậm, muộn.",
+    "type": "dieu_kien"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Trẻ em từ bao nhiêu tuổi thì việc xử lý dữ liệu cá nhân cần có sự đồng ý của chính trẻ em?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 16,
+        "evidence": "phải có sự đồng ý của trẻ em trong\ntrường hợp trẻ em từ đủ 7 tuổi trở lên"
+      }
+    ],
+    "expected_answer": "Từ đủ 7 tuổi trở lên (kèm sự đồng ý của cha, mẹ hoặc người giám hộ).",
+    "type": "dieu_kien"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Muốn xử lý dữ liệu cá nhân của người đã chết thì cần ai đồng ý?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 15,
+        "evidence": "phải được sự đông ý của vợ, chông hoặc con\nthành niên của người đó"
+      }
+    ],
+    "expected_answer": "Vợ, chồng hoặc con thành niên của người đó; nếu không có thì cha, mẹ.",
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải gửi Bộ Công an trong thời hạn bao lâu?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 19,
+        "evidence": "Mẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân"
+      }
+    ],
+    "expected_answer": "Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân, theo Mẫu số 04.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Bộ Công an kiểm tra việc chuyển dữ liệu cá nhân ra nước ngoài với tần suất nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 21,
+        "evidence": "kiểm tra chuyển\ndữ liệu cá nhân ra nước ngoài 01 lằn/năm"
+      }
+    ],
+    "expected_answer": "01 lần/năm, trừ khi phát hiện vi phạm hoặc để lộ, mất dữ liệu.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Nghị định 13/2023 có hiệu lực thi hành từ ngày nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 27,
+        "evidence": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023."
+      }
+    ],
+    "expected_answer": "Từ ngày 01 tháng 7 năm 2023.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Doanh nghiệp khởi nghiệp được miễn chỉ định cá nhân, bộ phận bảo vệ dữ liệu cá nhân trong bao lâu?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 27,
+        "evidence": "trong thời gian 02 năm đầu kết từ khi thành\nlập doanh nghiệp"
+      }
+    ],
+    "expected_answer": "Trong 02 năm đầu kể từ khi thành lập, trừ doanh nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân.",
+    "type": "ngoai_le"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là cơ quan nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 23,
+        "evidence": "Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và\nphòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an"
+      }
+    ],
+    "expected_answer": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong phần quy định trách nhiệm (Chương III), Bên Kiểm soát dữ liệu cá nhân phải ghi lại và lưu trữ gì?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 26,
+        "evidence": "Ghi lại và lưu trữ nhật ký hệ thống quá trình xử lý dữ liệu cá nhân."
+      }
+    ],
+    "expected_answer": "Nhật ký hệ thống quá trình xử lý dữ liệu cá nhân.",
+    "filter": {
+      "chuong": "III"
+    },
+    "type": "metadata_filter"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong biểu mẫu phụ lục, Phiếu yêu cầu cung cấp dữ liệu cá nhân dành cho cá nhân cho phép những phương thức nhận dữ liệu nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 30,
+        "evidence": "Nhận qua bưu điện (ghi rõ địa chỉ nhận)"
+      }
+    ],
+    "expected_answer": "Nhận tại nơi yêu cầu, qua bưu điện, qua mạng điện tử, hoặc hình thức khác.",
+    "filter": {
+      "document_type": "phu_luc"
+    },
+    "type": "metadata_filter"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Trong trường hợp nào Bên Kiểm soát dữ liệu được từ chối cung cấp dữ liệu cá nhân?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 11,
+        "evidence": "không cung cấp dữ liệu cá nhân trong trường hợp:\n\na) Gây tồn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội"
+      }
+    ],
+    "expected_answer": "Khi gây tổn hại quốc phòng, an ninh, trật tự; ảnh hưởng an toàn, sức khỏe người khác; hoặc chủ thể không đồng ý cung cấp/ủy quyền.",
+    "type": "ngoai_le"
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "Có được mua bán dữ liệu cá nhân không?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 4,
+        "evidence": "Dữ liệu cá nhân không được mua, bán dưới mọi hình thức, trừ\ntrường hợp luật có quy định khác."
+      }
+    ],
+    "expected_answer": "Không được mua, bán dưới mọi hình thức, trừ trường hợp luật có quy định khác.",
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "question": "Bộ nào phối hợp với Bộ Công an xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 25,
+        "evidence": "Phối hợp với Bộ Công an trong xây dựng Tiêu chuẩn bảo vệ dữ liệu cá\nnhân"
+      }
+    ],
+    "expected_answer": "Bộ Khoa học và Công nghệ.",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "q18",
+    "split": "dev",
+    "question": "Sau khi chủ thể yêu cầu xóa dữ liệu, bên kiểm soát phải xóa trong thời hạn bao lâu?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 14,
+        "evidence": "Việc xóa dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của\nchủ thể dữ liệu"
+      }
+    ],
+    "expected_answer": "Trong 72 giờ sau khi có yêu cầu, trừ trường hợp pháp luật có quy định khác.",
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q19",
+    "split": "dev",
+    "question": "Có trường hợp nào chủ thể dữ liệu đề nghị xóa nhưng dữ liệu không bị xóa không?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 13,
+        "evidence": "Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu"
+      }
+    ],
+    "expected_answer": "Có, ví dụ pháp luật không cho phép xóa, dữ liệu do cơ quan nhà nước xử lý, dữ liệu đã công khai, phục vụ nghiên cứu/thống kê, tình trạng khẩn cấp.",
+    "type": "ngoai_le"
+  },
+  {
+    "id": "q20",
+    "split": "dev",
+    "question": "Trong phần quy định trách nhiệm (Chương III), Bên Xử lý dữ liệu cá nhân phải làm gì với dữ liệu sau khi kết thúc xử lý?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 27,
+        "evidence": "Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu."
+      }
+    ],
+    "expected_answer": "Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân.",
+    "filter": {
+      "chuong": "III"
+    },
+    "type": "metadata_filter"
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "Theo biểu mẫu phụ lục, thông báo gửi hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải khai thông tin nhân sự nào?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 34,
+        "evidence": "Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân"
+      }
+    ],
+    "expected_answer": "Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân (họ tên, số điện thoại liên lạc).",
+    "filter": {
+      "document_type": "phu_luc"
+    },
+    "type": "metadata_filter"
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan có thẩm quyền có bị cấm không?",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 6,
+        "evidence": "Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan có thẩm quyền."
+      }
+    ],
+    "expected_answer": "Có, đây là hành vi bị nghiêm cấm (Điều 8).",
+    "type": "truc_tiep"
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "type": "ngoai_le",
+    "question": "Khi cơ quan nhà nước có thẩm quyền xử lý dữ liệu cá nhân để phục vụ hoạt động của mình thì có phải thông báo cho chủ thể dữ liệu trước không?",
+    "expected_answer": "Không bắt buộc. Nghĩa vụ thông báo một lần trước khi xử lý không áp dụng khi dữ liệu được cơ quan nhà nước có thẩm quyền xử lý để phục vụ hoạt động của cơ quan nhà nước theo quy định pháp luật (Điều 13 khoản 4 điểm b).",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 11,
+        "evidence": "Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật"
+      }
+    ]
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Nếu tôi rút lại sự đồng ý thì việc xử lý dữ liệu của tôi trước đó có bị coi là bất hợp pháp không?",
+    "expected_answer": "Không. Rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại (Điều 12 khoản 1).",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 10,
+        "evidence": "Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử\nlý dữ liệu đã được đông ý trước khi rút lại sự đông ý"
+      }
+    ]
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Trước khi xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân, cần kiểm tra gì?",
+    "expected_answer": "Kiểm tra an ninh mạng đối với hệ thống và phương tiện, thiết bị phục vụ xử lý dữ liệu cá nhân (Điều 27 khoản 4).",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 22,
+        "evidence": "Kiểm tra an ninh mạng đối với hệ thống và phương tiện, thiết bị phục\nvụ xử lý dữ liệu cá nhân trước khi xử lý, xoá không thể khôi phục được hoặc\nhuỷ các thiết bị chứa dữ liệu cá nhân"
+      }
+    ]
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo, ai phải chứng minh việc sử dụng dữ liệu cá nhân của khách hàng là đúng quy định?",
+    "expected_answer": "Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo (Điều 21 khoản 3).",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 17,
+        "evidence": "có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định"
+      }
+    ]
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng từ thời điểm nào?",
+    "expected_answer": "Ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân (Điều 26 khoản 1).",
+    "gold": [
+      {
+        "source_id": "nd13-2023",
+        "page": 21,
+        "evidence": "Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân"
+      }
+    ]
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Chủ thể dữ liệu là ai?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Thông tin về nhóm máu có được xem là dữ liệu cá nhân nhạy cảm về sức khỏe không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Nếu người dùng không trả lời gì thì có được coi là đã đồng ý cho xử lý dữ liệu không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Khi phát hiện vi phạm quy định bảo vệ dữ liệu cá nhân, Bên Kiểm soát dữ liệu phải thông báo cho Bộ Công an trong thời hạn nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Nếu thông báo vi phạm gửi muộn hơn 72 giờ thì phải làm gì thêm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Trẻ em từ bao nhiêu tuổi thì việc xử lý dữ liệu cá nhân cần có sự đồng ý của chính trẻ em?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Muốn xử lý dữ liệu cá nhân của người đã chết thì cần ai đồng ý?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải gửi Bộ Công an trong thời hạn bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Bộ Công an kiểm tra việc chuyển dữ liệu cá nhân ra nước ngoài với tần suất nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Nghị định 13/2023 có hiệu lực thi hành từ ngày nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Doanh nghiệp khởi nghiệp được miễn chỉ định cá nhân, bộ phận bảo vệ dữ liệu cá nhân trong bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là cơ quan nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong phần quy định trách nhiệm (Chương III), Bên Kiểm soát dữ liệu cá nhân phải ghi lại và lưu trữ gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chuong": "III"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong biểu mẫu phụ lục, Phiếu yêu cầu cung cấp dữ liệu cá nhân dành cho cá nhân cho phép những phương thức nhận dữ liệu nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "phu_luc"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Trong trường hợp nào Bên Kiểm soát dữ liệu được từ chối cung cấp dữ liệu cá nhân?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "Có được mua bán dữ liệu cá nhân không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "question": "Bộ nào phối hợp với Bộ Công an xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "dev",
+    "question": "Sau khi chủ thể yêu cầu xóa dữ liệu, bên kiểm soát phải xóa trong thời hạn bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "dev",
+    "question": "Có trường hợp nào chủ thể dữ liệu đề nghị xóa nhưng dữ liệu không bị xóa không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "dev",
+    "question": "Trong phần quy định trách nhiệm (Chương III), Bên Xử lý dữ liệu cá nhân phải làm gì với dữ liệu sau khi kết thúc xử lý?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "chuong": "III"
+    }
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "Theo biểu mẫu phụ lục, thông báo gửi hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải khai thông tin nhân sự nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "phu_luc"
+    }
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan có thẩm quyền có bị cấm không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "question": "Khi cơ quan nhà nước có thẩm quyền xử lý dữ liệu cá nhân để phục vụ hoạt động của mình thì có phải thông báo cho chủ thể dữ liệu trước không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "question": "Nếu tôi rút lại sự đồng ý thì việc xử lý dữ liệu của tôi trước đó có bị coi là bất hợp pháp không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "question": "Trước khi xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân, cần kiểm tra gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "question": "Trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo, ai phải chứng minh việc sử dụng dữ liệu cá nhân của khách hàng là đúng quy định?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "question": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng từ thời điểm nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "Mức phạt tiền tối đa đối với hành vi vi phạm quy định bảo vệ dữ liệu cá nhân là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Grep toàn bộ 39 trang OCR: 'phạt' chỉ xuất hiện 1 lần (Điều 4, tr. 5: 'xử phạt vi phạm hành chính... theo quy định'), không có mức tiền; 'triệu', 'doanh thu', '%' = 0 kết quả. Trả lời đúng = nói Nghị định không quy định mức phạt; có thể dẫn Điều 4 nhưng không được nêu con số."
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "Bên Kiểm soát dữ liệu được lưu trữ dữ liệu cá nhân của khách hàng tối đa bao nhiêu năm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Grep 'lưu trữ' (8 kết quả): chỉ có nguyên tắc 'chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý' (Điều 3 khoản 7, tr. 5) và Điều 16, không có số năm. Trả lời đúng = nói không quy định số năm cụ thể; không được nêu con số."
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "Nhân sự phụ trách bảo vệ dữ liệu cá nhân phải có bằng cấp hoặc chứng chỉ gì?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Grep 'chứng chỉ', 'bằng cấp', 'trình độ' = 0 kết quả. Điều 28 khoản 2 chỉ yêu cầu chỉ định nhân sự phụ trách, không nêu tiêu chuẩn bằng cấp."
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "Lệ phí thẩm định hồ sơ đánh giá tác động xử lý dữ liệu cá nhân là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Grep 'lệ phí', 'thẩm định' = 0 kết quả; 'phí' chỉ có 'chi phí thực tế để in, sao, chụp' khi cung cấp dữ liệu (tr. 12) và 'kinh phí' (Điều 31). Không có lệ phí cho hồ sơ đánh giá tác động."
+  }
+]
