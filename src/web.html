@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agentic RAG · NĐ 13/2023</title>
+<style>
+:root {
+  --bg: #f6f7f9; --panel: #ffffff; --text: #1d2330; --muted: #5f6b7a; --line: #dde2e8;
+  --accent: #2557d6; --accent-soft: #e8eefc; --ok: #1a7f4b; --ok-soft: #e3f4ea;
+  --warn: #9a6200; --warn-soft: #fbf0d9; --err: #b42318; --err-soft: #fde8e6; --code: #f1f3f6;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12151b; --panel: #1b1f27; --text: #e6e9ef; --muted: #9aa4b2; --line: #2c323d;
+    --accent: #7ea2ff; --accent-soft: #1f2a44; --ok: #5fd39a; --ok-soft: #173225;
+    --warn: #f0b75a; --warn-soft: #3a2c12; --err: #ff8a80; --err-soft: #3b1a18; --code: #232833;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+header { padding: 14px 20px; border-bottom: 1px solid var(--line); background: var(--panel); display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+header h1 { font-size: 18px; margin: 0; }
+header .meta { color: var(--muted); font-size: 13px; }
+main { display: grid; grid-template-columns: 340px 1fr; gap: 16px; padding: 16px 20px; max-width: 1400px; margin: 0 auto; }
+@media (max-width: 860px) { main { grid-template-columns: 1fr; padding: 12px 16px; } }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px; }
+.panel + .panel { margin-top: 16px; }
+h2 { font-size: 15px; margin: 0 0 10px; }
+h3 { font-size: 14px; margin: 0 0 8px; }
+label { display: block; font-size: 13px; color: var(--muted); margin: 10px 0 4px; }
+textarea, select, input { width: 100%; font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px; }
+textarea { min-height: 90px; resize: vertical; }
+button { margin-top: 12px; width: 100%; font: inherit; font-weight: 600; color: #fff; background: var(--accent); border: 0; border-radius: 8px; padding: 9px; cursor: pointer; }
+button:disabled { opacity: .6; cursor: wait; }
+button:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.row { display: flex; gap: 8px; }
+.row > * { flex: 1; }
+.hint { font-size: 12px; color: var(--muted); margin-top: 6px; }
+.empty { color: var(--muted); padding: 40px 10px; text-align: center; }
+.badge { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; letter-spacing: .02em; }
+.answered { color: var(--ok); background: var(--ok-soft); }
+.abstain { color: var(--warn); background: var(--warn-soft); }
+.error { color: var(--err); background: var(--err-soft); }
+.summary { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin-bottom: 6px; }
+.summary .stat { font-size: 13px; color: var(--muted); }
+.summary .stat b { color: var(--text); }
+.question { font-size: 16px; font-weight: 600; margin: 4px 0 0; }
+.step { border-left: 3px solid var(--line); padding: 4px 0 4px 14px; margin: 14px 0; }
+.step.tool { border-color: var(--accent); }
+.step.decide { border-color: var(--ok); }
+.step.fail { border-color: var(--err); }
+.step-title { font-weight: 600; font-size: 14px; }
+.step-title small { font-weight: 400; color: var(--muted); }
+code, pre { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: 12.5px; }
+code { background: var(--code); padding: 1px 5px; border-radius: 4px; word-break: break-all; }
+pre { background: var(--code); padding: 10px; border-radius: 8px; white-space: pre-wrap; word-break: break-word; margin: 6px 0 0; max-height: 420px; overflow: auto; }
+.table-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; margin-top: 6px; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr.cited td { background: var(--ok-soft); }
+.tag { font-size: 11px; padding: 1px 6px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); margin-left: 4px; white-space: nowrap; }
+.tag.c { background: var(--ok-soft); color: var(--ok); }
+details summary { cursor: pointer; color: var(--accent); font-size: 13px; }
+.answer { font-size: 15px; background: var(--ok-soft); border-radius: 8px; padding: 10px 12px; white-space: pre-wrap; }
+.answer.abst { background: var(--warn-soft); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip { font: inherit; font-size: 12px; width: auto; margin: 0; padding: 3px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.grader { border: 1px dashed var(--line); border-radius: 8px; padding: 10px 12px; margin-top: 16px; font-size: 13px; }
+.grader h3 { color: var(--muted); }
+.flash { animation: flash 1.2s ease-out; }
+@keyframes flash { from { background: var(--accent-soft); } to { background: transparent; } }
+@media (prefers-reduced-motion: reduce) { .flash { animation: none; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Agentic RAG · Nghị định 13/2023</h1>
+  <span class="meta" id="meta">đang tải…</span>
+</header>
+<main>
+  <div>
+    <section class="panel" aria-labelledby="ask-h">
+      <h2 id="ask-h">Hỏi agent</h2>
+      <form id="ask-form">
+        <label for="q">Câu hỏi</label>
+        <textarea id="q" required maxlength="1000" placeholder="Ví dụ: Bên Kiểm soát dữ liệu phải thông báo vi phạm trong bao lâu?"></textarea>
+        <label for="preset">Cấu hình</label>
+        <select id="preset"></select>
+        <div class="row">
+          <div><label for="f-chuong">Filter chương</label>
+            <select id="f-chuong"><option value="">(không)</option><option>I</option><option>II</option><option>III</option><option>IV</option></select></div>
+          <div><label for="f-type">Filter loại</label>
+            <select id="f-type"><option value="">(không)</option><option value="nghi_dinh">nghi_dinh</option><option value="phu_luc">phu_luc</option></select></div>
+        </div>
+        <button type="submit" id="ask-btn">Hỏi</button>
+        <p class="hint">Gọi Gemini thật (free tier, ~1–3 request/câu). Filter là thông tin người dùng cung cấp.</p>
+      </form>
+    </section>
+    <section class="panel" aria-labelledby="browse-h">
+      <h2 id="browse-h">Xem trace đã lưu</h2>
+      <label for="run">Lượt chạy</label>
+      <select id="run"></select>
+      <label for="qid">Câu hỏi</label>
+      <select id="qid"></select>
+      <p class="hint">Trace benchmark trong <code>results/</code>; có hiển thị đáp án chuẩn và nhãn chấm tay (chỉ để chấm, agent không thấy).</p>
+    </section>
+  </div>
+  <section class="panel" aria-live="polite" id="out"><div class="empty">Đặt câu hỏi hoặc chọn một trace để xem từng bước: tool call, tham số, kết quả, context cuối, quyết định của model, câu trả lời và citation.</div></section>
+</main>
+<script>
+// All document/tool text is rendered with textContent (it is data, never markup).
+const $ = (s) => document.querySelector(s);
+function el(tag, attrs = {}, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "class") n.className = v; else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+  }
+  for (const k of kids.flat()) if (k != null && k !== false) n.append(k instanceof Node ? k : document.createTextNode(String(k)));
+  return n;
+}
+const statusLabel = { answered: "ĐÃ TRẢ LỜI", abstain: "TỪ CHỐI", error: "LỖI" };
+let META = null;
+
+async function getJSON(url, opts) {
+  const r = await fetch(url, opts);
+  const j = await r.json();
+  if (!r.ok) throw new Error(j.error || r.statusText);
+  return j;
+}
+
+async function init() {
+  META = await getJSON("/api/meta");
+  const p = META.params;
+  $("#meta").textContent = `model ${META.model} · top_k ${p.top_k} · budget ${p.budget} ký tự · tối đa ${p.max_searches} lượt tìm`;
+  for (const [k, label] of Object.entries(META.presets)) $("#preset").append(el("option", { value: k }, label));
+  $("#run").append(el("option", { value: "" }, "(chọn lượt chạy)"));
+  for (const r of META.runs) $("#run").append(el("option", { value: r.run }, r.run));
+}
+
+$("#run").addEventListener("change", () => {
+  const run = META.runs.find((r) => r.run === $("#run").value);
+  $("#qid").replaceChildren(el("option", { value: "" }, "(chọn câu)"));
+  for (const q of run ? run.queries : []) $("#qid").append(el("option", { value: q.id }, `${q.id} · ${statusLabel[q.status] || q.status}`));
+});
+$("#qid").addEventListener("change", async () => {
+  if (!$("#qid").value) return;
+  try { render(await getJSON(`/api/trace?run=${encodeURIComponent($("#run").value)}&qid=${encodeURIComponent($("#qid").value)}`), $("#run").value); }
+  catch (e) { showError(e.message); }
+});
+
+$("#ask-form").addEventListener("submit", async (ev) => {
+  ev.preventDefault();
+  const btn = $("#ask-btn");
+  btn.disabled = true; btn.textContent = "Agent đang tìm…";
+  $("#out").replaceChildren(el("div", { class: "empty" }, "Agent đang tìm bằng chứng và gọi model…"));
+  const filter = {};
+  if ($("#f-chuong").value) filter.chuong = $("#f-chuong").value;
+  if ($("#f-type").value) filter.document_type = $("#f-type").value;
+  try {
+    render(await getJSON("/api/ask", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: $("#q").value, preset: $("#preset").value, filter }) }), "câu hỏi trực tiếp");
+  } catch (e) { showError(e.message); }
+  finally { btn.disabled = false; btn.textContent = "Hỏi"; }
+});
+
+function showError(msg) { $("#out").replaceChildren(el("div", { class: "step fail" }, el("div", { class: "step-title" }, "Lỗi"), el("pre", {}, msg))); }
+
+function render(t, source) {
+  const out = $("#out");
+  const searches = t.events.filter((e) => e.event === "search");
+  const calls = t.model_calls || [];
+  const cited = new Set(t.citations || []);
+  const finalIds = new Set(searches.length ? searches[searches.length - 1].context_ids : []);
+  const chunkText = {};
+  searches.forEach((e) => e.results.forEach((c) => (chunkText[c.id] = c)));
+
+  const head = el("div", {},
+    el("div", { class: "summary" },
+      el("span", { class: `badge ${t.status}` }, statusLabel[t.status] || t.status),
+      el("span", { class: "stat" }, "Nguồn: ", el("b", {}, t.preset || source)),
+      el("span", { class: "stat" }, "Thời gian: ", el("b", {}, `${t.elapsed_s} s`)),
+      el("span", { class: "stat" }, "Lượt tìm: ", el("b", {}, t.n_searches)),
+      el("span", { class: "stat" }, "Token: ", el("b", {}, `${t.tokens_in} vào / ${t.tokens_out} ra`)),
+      t.filter ? el("span", { class: "stat" }, "Filter: ", el("code", {}, JSON.stringify(t.filter))) : null),
+    el("p", { class: "question" }, t.question));
+
+  const steps = [];
+  let ci = 0;
+  searches.forEach((e, i) => {
+    const m = calls[ci++] || {};
+    const who = m.source === "original_question" ? "câu hỏi gốc (không gọi LLM)" : `model quyết định · ${m.latency_s ?? "?"} s · ${m.tokens_in ?? 0} token vào`;
+    const rows = e.results.map((c, r) => el("tr", { class: cited.has(c.id) ? "cited" : "", id: `chunk-${CSS.escape(c.id)}` },
+      el("td", { class: "num" }, r + 1),
+      el("td", {}, el("code", {}, c.id),
+        finalIds.has(c.id) ? el("span", { class: "tag" }, "trong context") : null,
+        cited.has(c.id) ? el("span", { class: "tag c" }, "được trích") : null,
+        el("details", {}, el("summary", {}, "xem nội dung"), el("pre", {}, c.text))),
+      el("td", { class: "num" }, c.page),
+      el("td", { class: "num" }, c.score),
+      el("td", { class: "num" }, c.ranks ? Object.entries(c.ranks).map(([k, v]) => `${k} ${v}`).join(" · ") : "—")));
+    steps.push(el("div", { class: "step tool" },
+      el("div", { class: "step-title" }, `Tool call ${i + 1}: search `, el("small", {}, `← ${who}`)),
+      el("div", {}, "query = ", el("code", {}, e.query), "  filter = ", el("code", {}, JSON.stringify(e.filter))),
+      el("div", { class: "table-wrap" }, el("table", {},
+        el("thead", {}, el("tr", {}, el("th", {}, "#"), el("th", {}, "Chunk"), el("th", {}, "Trang"), el("th", {}, "Score"), el("th", {}, "Hạng dense/BM25"))),
+        el("tbody", {}, rows))),
+      el("div", { class: "hint" }, `Context sau lượt ${i + 1}: ${e.context.length} ký tự, ${e.context_ids.length} chunk`)));
+  });
+
+  const decision = calls[ci];
+  if (decision) {
+    steps.push(el("div", { class: `step ${t.status === "error" ? "fail" : "decide"}` },
+      el("div", { class: "step-title" }, t.status === "error" ? "Quyết định chưa thực hiện xong: " : "Quyết định của model: ", el("code", {}, decision.function),
+        el("small", {}, decision.latency_s ? ` · ${decision.latency_s} s` : "")),
+      el("pre", {}, JSON.stringify(decision.args, null, 2)),
+      decision.citations_appended ? el("div", { class: "hint" }, `Citation được tự nối vào câu trả lời: ${decision.citations_appended.join(", ")}`) : null));
+  }
+  const endEvent = t.events.find((e) => e.event !== "search");
+  if (endEvent) steps.push(el("div", { class: "hint" }, `Điều kiện dừng: ${endEvent.event}` +
+    (endEvent.event === "invalid_or_missing_citations" && calls.some((m) => m.function === "abstain") ? " (model gọi abstain: chủ động từ chối)" : "")));
+
+  if (searches.length) {
+    steps.push(el("div", { class: "step" }, el("details", {},
+      el("summary", {}, `Context cuối gửi model (${searches[searches.length - 1].context.length} ký tự)`),
+      el("pre", {}, searches[searches.length - 1].context))));
+  }
+
+  let final;
+  if (t.status === "error") {
+    final = el("div", { class: "step fail" }, el("div", { class: "step-title" }, "Lỗi (được ghi lại, không thay bằng câu trả lời giả)"),
+      el("pre", {}, t.error), t.traceback ? el("details", {}, el("summary", {}, "traceback"), el("pre", {}, t.traceback)) : null);
+  } else {
+    final = el("div", {}, el("h3", {}, "Câu trả lời"),
+      el("div", { class: `answer ${t.status === "abstain" ? "abst" : ""}` }, t.answer),
+      cited.size ? el("div", { class: "chips" }, [...cited].map((id) =>
+        el("button", { class: "chip", type: "button", onclick: () => {
+          const row = document.getElementById(`chunk-${CSS.escape(id)}`);
+          if (row) { row.querySelector("details").open = true; row.scrollIntoView({ block: "center" }); row.classList.add("flash"); setTimeout(() => row.classList.remove("flash"), 1300); }
+        } }, `[${id}] tr. ${chunkText[id] ? chunkText[id].page : "?"}`))) : null,
+      el("p", { class: "hint" }, "ID citation hợp lệ chưa chứng minh nguồn hỗ trợ câu trả lời: bấm citation để đọc đối chiếu nguyên văn."));
+  }
+
+  let grader = null;
+  const g = t.grader;
+  if (g && (g.expected_answer || g.absence_reason)) {
+    const rv = g.review;
+    grader = el("div", { class: "grader" }, el("h3", {}, "Góc chấm (agent không thấy phần này)"),
+      g.answerable ? el("div", {}, el("b", {}, "Đáp án chuẩn: "), g.expected_answer, " — gold ",
+        el("code", {}, (g.gold || []).map((x) => `tr.${x.page}`).join(", ")))
+        : el("div", {}, el("b", {}, "Câu thiếu evidence: "), g.absence_reason),
+      rv ? el("div", { style: "margin-top:6px" }, el("b", {}, "Nhãn chấm tay: "),
+        rv.answer_grade !== undefined ? `answer ${rv.answer_grade}/2 · ` : "",
+        rv.abstention_correct !== undefined ? `abstention ${rv.abstention_correct ? "đúng" : "sai"} · ` : "",
+        rv.context_grade !== undefined ? `context ${rv.context_grade}/2 · ` : "",
+        `citation ${JSON.stringify(rv.citation_support)} — ${rv.reason}`) : null);
+  }
+  out.replaceChildren(head, ...steps, final, grader || "");
+  out.scrollIntoView({ block: "start" });
+}
+
+init().catch((e) => showError(`Không tải được dữ liệu: ${e.message}`));
+</script>
+</body>
+</html>

@@ -84,7 +84,15 @@ Embedding model đã được Day 6 tải vào cache HuggingFace; `HF_HUB_OFFLIN
 
 Gemini free tier giới hạn 15 request/phút và 500 request/ngày; `GEMINI_MIN_INTERVAL=4.5` giãn request, lỗi 429 được chờ rồi thử lại, lỗi còn lại ghi `status: "error"` trong trace.
 
-### Xem trace và hỏi trực tiếp
+### Giao diện web
+
+```bash
+.venv/Scripts/python -X utf8 src/web.py      # mở http://127.0.0.1:8007
+```
+
+Trang [src/web.html](src/web.html) (chỉ dùng thư viện chuẩn, chạy trên localhost) cho phép hỏi agent trực tiếp (chọn cấu hình đã chốt hoặc baseline, filter chương/loại) hoặc mở trace đã lưu trong `results/`. Mỗi câu hiển thị: từng tool call với query, filter và nguồn query (câu gốc hay model viết); bảng kết quả gồm chunk, trang, score, hạng dense/BM25, đánh dấu chunk nằm trong context hoặc được trích, xem được nguyên văn; quyết định của model; điều kiện dừng; context cuối; câu trả lời với citation bấm được để đối chiếu; lỗi kèm traceback; thời gian và token. Với trace benchmark có thêm "góc chấm" (đáp án chuẩn, gold, nhãn tay), phần này agent không thấy. Câu hỏi trực tiếp được lưu vào `results/ask/web.json`.
+
+### Xem trace và hỏi trực tiếp bằng dòng lệnh
 
 ```bash
 .venv/Scripts/python src/show_trace.py agent-test-hybrid-orig-early-strict t03   # tool call, kết quả, context cuối, trả lời

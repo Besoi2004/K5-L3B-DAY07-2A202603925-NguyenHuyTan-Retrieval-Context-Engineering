@@ -1,0 +1,143 @@
+[
+ {
+  "status": "answered",
+  "answer": "Có. Theo quy định, việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân [nd13-2023:p10:paragraph:002]. \n\nTuy nhiên, Bên Kiểm soát dữ liệu cá nhân không cần thực hiện việc thông báo này trong các trường hợp sau:\n- Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung thông báo trước khi đồng ý cho Bên Kiểm soát dữ liệu cá nhân thu thập dữ liệu cá nhân, phù hợp với quy định tại Điều 9 của Nghị định [nd13-2023:p11:paragraph:000].\n- Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật [nd13-2023:p11:paragraph:000].",
+  "citations": [
+   "nd13-2023:p10:paragraph:002",
+   "nd13-2023:p11:paragraph:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "Bên Kiểm soát dữ liệu cá nhân có phải thông báo cho chủ thể dữ liệu trước khi xử lý không?",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p10:paragraph:002",
+      "text": "Điều 13. Thông báo xử lý dữ liệu cá nhân\n\n1. Việc thông báo được thực hiện một lần trước khi tiền hành đối với hoạt\nđộng xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy\nđịnh tại điêm a khoán 2 Điều này;\n\nc) Cách thức xử lý;\n\nd) Thông tin về các tổ chức, cá nhân khác có liên quan tới mục đích xử lý\nquy định tại điểm a khoản 2 Điều này;\n\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xây ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho chủ thể dữ liệu phải được thể hiện ở một định dạng\n\ncó thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định\ndạng kiểm chứng được.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 10,
+      "metadata": {
+       "dieu": 13,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1947,
+       "max_size": 800,
+       "dieu_list": [
+        13
+       ],
+       "char_start": 1185,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03226,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 2,
+       "bm25": 2
+      }
+     },
+     {
+      "id": "nd13-2023:p11:paragraph:000",
+      "text": "4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 11,
+      "metadata": {
+       "dieu": 13,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 577,
+       "max_size": 800,
+       "dieu_list": [
+        13
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03068,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 1,
+       "bm25": 10
+      }
+     },
+     {
+      "id": "nd13-2023:p12:paragraph:002",
+      "text": "b) Trường hợp dữ liệu cá nhân được yêu cầu không thuộc thẳm quyền thì\nBên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân nhận\nđược yêu cầu phải thông báo và hướng dẫn tổ chức, cá nhân yêu cầu đến cơ quan\ncó thẩm quyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\n\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiêm soát và xử lý dữ liệu cá nhân có trách nhiệm cung\ncập dữ liệu cá nhân thông báo về thời hạn, địa điểm, hình thức cung cấp dữ liệu\ncá nhân; chỉ phí thực tê đề in, sao, chụp, gửi thông tin qua dịch vụ bưu chính,",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 12,
+      "metadata": {
+       "dieu": 14,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2099,
+       "max_size": 800,
+       "dieu_list": [
+        14
+       ],
+       "char_start": 1445,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.03033,
+      "strategy": "hybrid_rrf",
+      "ranks": {
+       "dense": 8,
+       "bm25": 4
+      }
+     }
+    ],
+    "context": "[nd13-2023:p10:paragraph:002 | data/13nd.signed.pdf | page 10]\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n\n1. Việc thông báo được thực hiện một lần trước khi tiền hành đối với hoạt\nđộng xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy\nđịnh tại điêm a khoán 2 Điều này;\n\nc) Cách thức xử lý;\n\nd) Thông tin về các tổ chức, cá nhân khác có liên quan tới mục đích xử lý\nquy định tại điểm a khoản 2 Điều này;\n\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xây ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho chủ thể dữ liệu phải được thể hiện ở một định dạng\n\ncó thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định\ndạng kiểm chứng được.\n\n[nd13-2023:p11:paragraph:000 | data/13nd.signed.pdf | page 11]\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.\n\n[nd13-2023:p12:paragraph:002 | data/13nd.signed.pdf | page 12]\nb) Trường hợp dữ liệu cá nhân được yêu cầu không thuộc thẳm quyền thì\nBên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân nhận\nđược yêu cầu phải thông báo và hướng dẫn tổ chức, cá nhân yêu cầu đến cơ quan\ncó thẩm quyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\n\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiêm soát và xử lý dữ liệu cá nhân có trách nhiệm cung\ncập dữ liệu cá nhân thông báo về thời hạn, địa điểm, hình thức cung cấp dữ liệu\ncá nhân; chỉ phí thực tê đề in, sao, chụp, gửi thông tin qua dịch vụ bưu chính,",
+    "context_ids": [
+     "nd13-2023:p10:paragraph:002",
+     "nd13-2023:p11:paragraph:000",
+     "nd13-2023:p12:paragraph:002"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "ask",
+  "question": "Bên Kiểm soát dữ liệu cá nhân có phải thông báo cho chủ thể dữ liệu trước khi xử lý không?",
+  "filter": null,
+  "model_calls": [
+   {
+    "function": "search",
+    "args": {
+     "query": "Bên Kiểm soát dữ liệu cá nhân có phải thông báo cho chủ thể dữ liệu trước khi xử lý không?"
+    },
+    "source": "original_question",
+    "latency_s": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "tokens_thought": 0
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 2.1,
+    "tokens_in": 1302,
+    "tokens_out": 259,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "answer": "Có. Theo quy định, việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân [nd13-2023:p10:paragraph:002]. \n\nTuy nhiên, Bên Kiểm soát dữ liệu cá nhân không cần thực hiện việc thông báo này trong các trường hợp sau:\n- Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung thông báo trước khi đồng ý cho Bên Kiểm soát dữ liệu cá nhân thu thập dữ liệu cá nhân, phù hợp với quy định tại Điều 9 của Nghị định [nd13-2023:p11:paragraph:000].\n- Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật [nd13-2023:p11:paragraph:000].",
+     "citations": [
+      "nd13-2023:p10:paragraph:002",
+      "nd13-2023:p11:paragraph:000"
+     ]
+    }
+   }
+  ],
+  "elapsed_s": 2.41,
+  "n_searches": 1,
+  "tokens_in": 1302,
+  "tokens_out": 259,
+  "preset": "Đã chốt: hybrid-orig-early-strict"
+ }
+]
