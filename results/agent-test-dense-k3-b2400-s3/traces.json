@@ -1,0 +1,1967 @@
+[
+ {
+  "status": "answered",
+  "answer": "Khi dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật, thì không phải thực hiện quy định về việc thông báo cho chủ thể dữ liệu trước khi thu thập/xử lý theo khoản 1 Điều này [nd13-2023:p11:paragraph:000].",
+  "citations": [
+   "nd13-2023:p11:paragraph:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "cơ quan nhà nước xử lý dữ liệu cá nhân phục vụ hoạt động thông báo chủ thể dữ liệu",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p23:paragraph:001",
+      "text": "đ) Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân\ncủa cơ quan, tô chức, cá nhân có liên quan;\n\ne) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;\n\ng) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá\nnhân theo quy định của pháp luật;\n\nh) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\n\n1) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu\ncá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 23,
+      "metadata": {
+       "dieu": 29,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1176,
+       "max_size": 800,
+       "dieu_list": [
+        29
+       ],
+       "char_start": 727,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.82647,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p26:paragraph:002",
+      "text": "_.6. Bên Kiểm soát dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu\nvề các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cấp thông tin phục vụ điêu tra, xử lý hảnh vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 26,
+      "metadata": {
+       "dieu": 38,
+       "chuong": "III",
+       "chunker": "paragraph",
+       "char_end": 1550,
+       "max_size": 800,
+       "dieu_list": [
+        38
+       ],
+       "char_start": 1217,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.815712,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p11:paragraph:000",
+      "text": "4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 11,
+      "metadata": {
+       "dieu": 13,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 577,
+       "max_size": 800,
+       "dieu_list": [
+        13
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.808433,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:001 | data/13nd.signed.pdf | page 23]\nđ) Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân\ncủa cơ quan, tô chức, cá nhân có liên quan;\n\ne) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;\n\ng) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá\nnhân theo quy định của pháp luật;\n\nh) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\n\n1) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu\ncá nhân.\n\n[nd13-2023:p26:paragraph:002 | data/13nd.signed.pdf | page 26]\n_.6. Bên Kiểm soát dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu\nvề các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cấp thông tin phục vụ điêu tra, xử lý hảnh vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.\n\n[nd13-2023:p11:paragraph:000 | data/13nd.signed.pdf | page 11]\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:001",
+     "nd13-2023:p26:paragraph:002",
+     "nd13-2023:p11:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Bên Kiểm soát dữ liệu cá nhân không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p11:paragraph:000",
+      "text": "4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 11,
+      "metadata": {
+       "dieu": 13,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 577,
+       "max_size": 800,
+       "dieu_list": [
+        13
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.876704,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p11:paragraph:002",
+      "text": "3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau\nkhi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\n\na) Gây tồn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;\n\nb) Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu có thể ảnh hưởng tới\nsự an toàn, sức khỏe thê chât hoặc tình thân của người khác;\n\nc) Chủ thể dữ liệu không đồng ý cung cấp, cho phép đại diện hoặc ủy\nquyên nhận dữ liệu cá nhân.\n\n5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 11,
+      "metadata": {
+       "dieu": 14,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1913,
+       "max_size": 800,
+       "dieu_list": [
+        14
+       ],
+       "char_start": 1206,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.854368,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p14:paragraph:002",
+      "text": "6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 14,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2093,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.850251,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:001 | data/13nd.signed.pdf | page 23]\nđ) Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân\ncủa cơ quan, tô chức, cá nhân có liên quan;\n\ne) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;\n\ng) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá\nnhân theo quy định của pháp luật;\n\nh) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\n\n1) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu\ncá nhân.\n\n[nd13-2023:p26:paragraph:002 | data/13nd.signed.pdf | page 26]\n_.6. Bên Kiểm soát dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu\nvề các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cấp thông tin phục vụ điêu tra, xử lý hảnh vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.\n\n[nd13-2023:p11:paragraph:000 | data/13nd.signed.pdf | page 11]\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.\n\n[nd13-2023:p11:paragraph:002 | data/13nd.signed.pdf | page 11]\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau\nkhi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\n\na) Gây tồn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;\n\nb) Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu có thể ảnh hưởng tới\nsự an toàn, sức khỏe thê chât hoặc tình thân của người khác;\n\nc) Chủ thể dữ liệu không đồng ý cung cấp, cho phép đại diện hoặc ủy\nquyên nhận dữ liệu cá nhân.\n\n5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:001",
+     "nd13-2023:p26:paragraph:002",
+     "nd13-2023:p11:paragraph:000",
+     "nd13-2023:p11:paragraph:002"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Điều 13 Nghị định 13/2023",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p01:paragraph:000",
+      "text": "U//ñ\n\nCHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nSố: 13/2023/NĐ-CP Hà Nội, ngày 17 tháng 4 năm 2023\n\nCÔNG THÔNG TỊN ĐIỆN TỬ CHÍNH PHÙ\n\nNGHỊ ĐỊNH\nBảo vệ dữ liệu cá nhân -\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đối,\nbề sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền\nđịa phương ngày 22 tháng Ï ] năm 2019;\n\nCăn cư Bộ luật Dân sự ngày 24 tháng Ï] năm 2015;\nCăn cứ Luật Án ninh quốc gia ngày 03 tháng 12 năm 2004;\nCăn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;\nTheo đề nghị của Bộ trưởng Bộ Công an;\nChính phủ bạn hành Nghị định bảo vệ dữ liệu cá nhân.\nĩ Chương I\n\nNHỮNG QUY ĐỊNH CHUNG",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 1,
+      "metadata": {
+       "dieu": null,
+       "chuong": null,
+       "chunker": "paragraph",
+       "char_end": 668,
+       "max_size": 800,
+       "dieu_list": [],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.759112,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p27:paragraph:004",
+      "text": "Chương IV\nĐIỀU KHOẢN THỊ HÀNH\n\nĐiều 43. Hiệu lực thi hành\n\n1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.\n\n2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh\nnghiệp khởi nghiệp được quyền lựa chọn miễn trừ quy định về chỉ định cá nhân\n\nvà bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kết từ khi thành\nlập doanh nghiệp.\n\n3. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh\nnghiệp khởi nghiệp trực tiệp kinh doanh hoạt động xử lý dữ liệu cá nhân không\náp dụng quy định tại khoản 2 Điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 27,
+      "metadata": {
+       "dieu": 43,
+       "chuong": "IV",
+       "chunker": "paragraph",
+       "char_end": 1757,
+       "max_size": 800,
+       "dieu_list": [
+        42,
+        43
+       ],
+       "char_start": 1195,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.726305,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p10:paragraph:002",
+      "text": "Điều 13. Thông báo xử lý dữ liệu cá nhân\n\n1. Việc thông báo được thực hiện một lần trước khi tiền hành đối với hoạt\nđộng xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy\nđịnh tại điêm a khoán 2 Điều này;\n\nc) Cách thức xử lý;\n\nd) Thông tin về các tổ chức, cá nhân khác có liên quan tới mục đích xử lý\nquy định tại điểm a khoản 2 Điều này;\n\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xây ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho chủ thể dữ liệu phải được thể hiện ở một định dạng\n\ncó thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định\ndạng kiểm chứng được.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 10,
+      "metadata": {
+       "dieu": 13,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1947,
+       "max_size": 800,
+       "dieu_list": [
+        13
+       ],
+       "char_start": 1185,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.725468,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:001 | data/13nd.signed.pdf | page 23]\nđ) Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân\ncủa cơ quan, tô chức, cá nhân có liên quan;\n\ne) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;\n\ng) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá\nnhân theo quy định của pháp luật;\n\nh) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\n\n1) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu\ncá nhân.\n\n[nd13-2023:p26:paragraph:002 | data/13nd.signed.pdf | page 26]\n_.6. Bên Kiểm soát dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu\nvề các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cấp thông tin phục vụ điêu tra, xử lý hảnh vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.\n\n[nd13-2023:p11:paragraph:000 | data/13nd.signed.pdf | page 11]\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cân thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại\nkhoản 1 và khoản 2 Điều này trước khi đông ý cho Bên Kiêm soát dữ liệu cá\nnhân, Bên Kiêm soát và xử lý dữ liệu cá nhân tiên hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điêu 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.\n\n[nd13-2023:p11:paragraph:002 | data/13nd.signed.pdf | page 11]\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau\nkhi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\n\na) Gây tồn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;\n\nb) Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu có thể ảnh hưởng tới\nsự an toàn, sức khỏe thê chât hoặc tình thân của người khác;\n\nc) Chủ thể dữ liệu không đồng ý cung cấp, cho phép đại diện hoặc ủy\nquyên nhận dữ liệu cá nhân.\n\n5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:001",
+     "nd13-2023:p26:paragraph:002",
+     "nd13-2023:p11:paragraph:000",
+     "nd13-2023:p11:paragraph:002"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "t01",
+  "question": "Khi cơ quan nhà nước có thẩm quyền xử lý dữ liệu cá nhân để phục vụ hoạt động của mình thì có phải thông báo cho chủ thể dữ liệu trước không?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 1.83,
+    "tokens_in": 511,
+    "tokens_out": 34,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "cơ quan nhà nước xử lý dữ liệu cá nhân phục vụ hoạt động thông báo chủ thể dữ liệu"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 3.28,
+    "tokens_in": 1044,
+    "tokens_out": 38,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Bên Kiểm soát dữ liệu cá nhân không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.35,
+    "tokens_in": 1310,
+    "tokens_out": 27,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Điều 13 Nghị định 13/2023"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.79,
+    "tokens_in": 1338,
+    "tokens_out": 123,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "answer": "Khi dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật, thì không phải thực hiện quy định về việc thông báo cho chủ thể dữ liệu trước khi thu thập/xử lý theo khoản 1 Điều này [nd13-2023:p11:paragraph:000].",
+     "citations": [
+      "nd13-2023:p11:paragraph:000"
+     ]
+    }
+   }
+  ],
+  "elapsed_s": 15.0,
+  "n_searches": 3,
+  "tokens_in": 4203,
+  "tokens_out": 222
+ },
+ {
+  "status": "answered",
+  "answer": "Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý [nd13-2023:p10:paragraph:001].",
+  "citations": [
+   "nd13-2023:p10:paragraph:001"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "rút lại sự đồng ý xử lý dữ liệu trước đó hợp pháp",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p10:paragraph:001",
+      "text": "Điều 12. Rút lại sự đồng ý\n\n1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử\nlý dữ liệu đã được đông ý trước khi rút lại sự đông ý.\n\n2. Việc rút lại sự đồng ý phải được thể hiện ở một định dạng có thể được\nin, sao chép băng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiểm\nchứng được.\n\n3. Khi nhận yêu cầu rút lại sự đồng ý của chủ thể dữ liệu, Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiêm soát và xử lý dữ liệu cá nhân thông báo cho chú thê dữ\nliệu vê hậu quả, thiệt hại có thê xây ra khi rút lại sự đông ý.\n\n4. Sau khi thực hiện quy định tại khoản 2 Điều này, Bên Kiểm soát dữ\nliệu, Bên Xử lý dữ liệu, Bên Kiểm soát và xử lý dữ liệu, Bên thứ ba phải ngừng\nvà yêu cầu các tổ chức, cá nhân có liên quan ngừng xử lý dữ liệu của chủ thể\ndữ liệu đã rút lại sự đồng ý.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 10,
+      "metadata": {
+       "dieu": 12,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1184,
+       "max_size": 800,
+       "dieu_list": [
+        12
+       ],
+       "char_start": 392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.886027,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p13:paragraph:003",
+      "text": "Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 13,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2030,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1240,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.811142,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p14:paragraph:002",
+      "text": "6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 14,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2093,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.808611,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p10:paragraph:001 | data/13nd.signed.pdf | page 10]\nĐiều 12. Rút lại sự đồng ý\n\n1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử\nlý dữ liệu đã được đông ý trước khi rút lại sự đông ý.\n\n2. Việc rút lại sự đồng ý phải được thể hiện ở một định dạng có thể được\nin, sao chép băng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiểm\nchứng được.\n\n3. Khi nhận yêu cầu rút lại sự đồng ý của chủ thể dữ liệu, Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiêm soát và xử lý dữ liệu cá nhân thông báo cho chú thê dữ\nliệu vê hậu quả, thiệt hại có thê xây ra khi rút lại sự đông ý.\n\n4. Sau khi thực hiện quy định tại khoản 2 Điều này, Bên Kiểm soát dữ\nliệu, Bên Xử lý dữ liệu, Bên Kiểm soát và xử lý dữ liệu, Bên thứ ba phải ngừng\nvà yêu cầu các tổ chức, cá nhân có liên quan ngừng xử lý dữ liệu của chủ thể\ndữ liệu đã rút lại sự đồng ý.\n\n[nd13-2023:p13:paragraph:003 | data/13nd.signed.pdf | page 13]\nĐiều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:",
+    "context_ids": [
+     "nd13-2023:p10:paragraph:001",
+     "nd13-2023:p13:paragraph:003"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "t02",
+  "question": "Nếu tôi rút lại sự đồng ý thì việc xử lý dữ liệu của tôi trước đó có bị coi là bất hợp pháp không?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 4.81,
+    "tokens_in": 503,
+    "tokens_out": 27,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "rút lại sự đồng ý xử lý dữ liệu trước đó hợp pháp"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 3.45,
+    "tokens_in": 1071,
+    "tokens_out": 89,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "citations": [
+      "nd13-2023:p10:paragraph:001"
+     ],
+     "answer": "Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý [nd13-2023:p10:paragraph:001]."
+    }
+   }
+  ],
+  "elapsed_s": 8.49,
+  "n_searches": 1,
+  "tokens_in": 1574,
+  "tokens_out": 116
+ },
+ {
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "query": "xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p14:paragraph:002",
+      "text": "6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 14,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2093,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.81458,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p13:paragraph:003",
+      "text": "Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 13,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2030,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1240,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.800405,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p27:paragraph:000",
+      "text": "4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 27,
+      "metadata": {
+       "dieu": 39,
+       "chuong": "III",
+       "chunker": "paragraph",
+       "char_end": 434,
+       "max_size": 800,
+       "dieu_list": [
+        39
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.784951,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p14:paragraph:002 | data/13nd.signed.pdf | page 14]\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;\n\n[nd13-2023:p13:paragraph:003 | data/13nd.signed.pdf | page 13]\nĐiều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:\n\n[nd13-2023:p27:paragraph:000 | data/13nd.signed.pdf | page 27]\n4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+    "context_ids": [
+     "nd13-2023:p14:paragraph:002",
+     "nd13-2023:p13:paragraph:003",
+     "nd13-2023:p27:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "xóa không thể khôi phục thiết bị chứa dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p14:paragraph:002",
+      "text": "6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 14,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2093,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.807879,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p13:paragraph:003",
+      "text": "Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 13,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2030,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1240,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.78407,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p27:paragraph:000",
+      "text": "4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 27,
+      "metadata": {
+       "dieu": 39,
+       "chuong": "III",
+       "chunker": "paragraph",
+       "char_end": 434,
+       "max_size": 800,
+       "dieu_list": [
+        39
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.783846,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p14:paragraph:002 | data/13nd.signed.pdf | page 14]\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;\n\n[nd13-2023:p13:paragraph:003 | data/13nd.signed.pdf | page 13]\nĐiều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:\n\n[nd13-2023:p27:paragraph:000 | data/13nd.signed.pdf | page 27]\n4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+    "context_ids": [
+     "nd13-2023:p14:paragraph:002",
+     "nd13-2023:p13:paragraph:003",
+     "nd13-2023:p27:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p14:paragraph:002",
+      "text": "6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 14,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2093,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1392,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.81458,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p13:paragraph:003",
+      "text": "Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 13,
+      "metadata": {
+       "dieu": 16,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2030,
+       "max_size": 800,
+       "dieu_list": [
+        16
+       ],
+       "char_start": 1240,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.800405,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p27:paragraph:000",
+      "text": "4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 27,
+      "metadata": {
+       "dieu": 39,
+       "chuong": "III",
+       "chunker": "paragraph",
+       "char_end": 434,
+       "max_size": 800,
+       "dieu_list": [
+        39
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.784951,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p14:paragraph:002 | data/13nd.signed.pdf | page 14]\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức\nphù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo\nquy định của pháp luật.\n\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thê khôi phục trong trường hợp:\n\na) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý\nđữ liệu cá nhân được chủ thê dữ liệu đồng ý\n\nb) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý\ndữ liệu cá nhân, Bên thứ ba;\n\n[nd13-2023:p13:paragraph:003 | data/13nd.signed.pdf | page 13]\nĐiều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân\n\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường\nhợp sau:\n\na) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thê xảy ra khi yêu câu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\ne) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng đề tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc\nviệc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:\n\n[nd13-2023:p27:paragraph:000 | data/13nd.signed.pdf | page 27]\n4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các\nthiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.\n\n5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân\nsau khi kết thúc xử lý dữ liệu.\n\n6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo\nvệ dữ liệu cá nhân, cung cập thông tĩn phục vụ điều tra, xử lý hành vi vi phạm\nquy định của pháp luật vê bảo vệ dữ liệu cá nhân.",
+    "context_ids": [
+     "nd13-2023:p14:paragraph:002",
+     "nd13-2023:p13:paragraph:003",
+     "nd13-2023:p27:paragraph:000"
+    ]
+   },
+   {
+    "event": "invalid_or_missing_citations"
+   }
+  ],
+  "query_id": "t03",
+  "question": "Trước khi xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân, cần kiểm tra gì?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 4.6,
+    "tokens_in": 500,
+    "tokens_out": 29,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 3.97,
+    "tokens_in": 1203,
+    "tokens_out": 27,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "xóa không thể khôi phục thiết bị chứa dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.57,
+    "tokens_in": 1219,
+    "tokens_out": 29,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.8,
+    "tokens_in": 1249,
+    "tokens_out": 43,
+    "tokens_thought": 0,
+    "function": "abstain",
+    "args": {
+     "reason": "Context không chứa thông tin về việc cần kiểm tra gì trước khi xóa không thể khôi phục hoặc hủy thiết bị chứa dữ liệu cá nhân."
+    }
+   }
+  ],
+  "elapsed_s": 18.63,
+  "n_searches": 3,
+  "tokens_in": 4171,
+  "tokens_out": 128
+ },
+ {
+  "status": "answered",
+  "answer": "Trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo, tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng được giới thiệu sản phẩm đúng với quy định [nd13-2023:p17:paragraph:000].",
+  "citations": [
+   "nd13-2023:p17:paragraph:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "kinh doanh dịch vụ tiếp thị giới thiệu sản phẩm quảng cáo chứng minh việc sử dụng dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p16:paragraph:003",
+      "text": "Điều 21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới\nthiệu sản phẩm quảng cáo\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt\nđộng kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm\nquảng cáo khi có sự đồng ý của chủ thể dữ liệu.\n\n2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị,\ngiới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở\nkhách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 16,
+      "metadata": {
+       "dieu": 21,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2089,
+       "max_size": 800,
+       "dieu_list": [
+        21
+       ],
+       "char_start": 1479,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.856642,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p17:paragraph:000",
+      "text": "3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 17,
+      "metadata": {
+       "dieu": 21,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 225,
+       "max_size": 800,
+       "dieu_list": [
+        21
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.841975,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p33:paragraph:000",
+      "text": "- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên: …ồ.GeGeseeeseeeeeeeeeeeeeeeeeeseeseeeesskeeeeskaseesieeekbseenei:\nChức danh: …nnnnnnnnnnnnnnnnnnnnnnnnnnEnnnEnEnE nen 0690900000001000000099991\nSố điện thoại liên lạc (cố định và di động): …neenneenneee nen,\nEmail:…-. Du Vu van n nh kh EE E nan tk E kh b ke nen nen nh nh\n- Hậu quả xảy Tâ:…7011e in ni nen nen nhe ni ni nnn nh nhe na nh nhe ki nh nh:\n- Biện pháp áp dụng:…:...2020e.eeeee nen nen nen nen nen n nhấn\n3. Tài liệu kèm theo\n\n4. Cam kết\n\n(Tên cơ quan, tổ chức, doanh nghiệp) xin cam kết: Chịu trách nhiệm trước\npháp luật về tính chính xác và tính hợp pháp thông tin cung cấp và tài liệu kèm\ntheo.\n\n- Nơi nhận: TM. TÔ CHỨC, DOANH NGHIỆP\n- Như trên; (Ký, ghỉ rõ họ tên, đóng dầu)",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 33,
+      "metadata": {
+       "dieu": null,
+       "chuong": null,
+       "chunker": "paragraph",
+       "char_end": 751,
+       "max_size": 800,
+       "dieu_list": [],
+       "char_start": 0,
+       "document_type": "phu_luc"
+      },
+      "score": 0.740954,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p16:paragraph:003 | data/13nd.signed.pdf | page 16]\nĐiều 21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới\nthiệu sản phẩm quảng cáo\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt\nđộng kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm\nquảng cáo khi có sự đồng ý của chủ thể dữ liệu.\n\n2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị,\ngiới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở\nkhách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.\n\n[nd13-2023:p17:paragraph:000 | data/13nd.signed.pdf | page 17]\n3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.\n\n[nd13-2023:p33:paragraph:000 | data/13nd.signed.pdf | page 33]\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên: …ồ.GeGeseeeseeeeeeeeeeeeeeeeeeseeseeeesskeeeeskaseesieeekbseenei:\nChức danh: …nnnnnnnnnnnnnnnnnnnnnnnnnnEnnnEnEnE nen 0690900000001000000099991\nSố điện thoại liên lạc (cố định và di động): …neenneenneee nen,\nEmail:…-. Du Vu van n nh kh EE E nan tk E kh b ke nen nen nh nh\n- Hậu quả xảy Tâ:…7011e in ni nen nen nhe ni ni nnn nh nhe na nh nhe ki nh nh:\n- Biện pháp áp dụng:…:...2020e.eeeee nen nen nen nen nen n nhấn\n3. Tài liệu kèm theo\n\n4. Cam kết\n\n(Tên cơ quan, tổ chức, doanh nghiệp) xin cam kết: Chịu trách nhiệm trước\npháp luật về tính chính xác và tính hợp pháp thông tin cung cấp và tài liệu kèm\ntheo.\n\n- Nơi nhận: TM. TÔ CHỨC, DOANH NGHIỆP\n- Như trên; (Ký, ghỉ rõ họ tên, đóng dầu)",
+    "context_ids": [
+     "nd13-2023:p16:paragraph:003",
+     "nd13-2023:p17:paragraph:000",
+     "nd13-2023:p33:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "chứng minh việc sử dụng dữ liệu cá nhân của khách hàng đúng với quy định",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p11:paragraph:001",
+      "text": "Điều 14. Cung cấp dữ liệu cá nhân\n\n1. Chủ thê dữ liệu được yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân cung cập cho bản thân dữ liệu cá nhân của mình.\n\n2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:\n\na) Được cung cập dữ liệu cá nhân của chủ thê dữ liệu cho tô chức, cá nhân khác\n\nkhi có sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;\n\nb) Thay mặt chủ thể dữ liệu cung cấp dữ liệu cá nhân của chủ thể dữ liệu\ncho tổ chức hoặc cá nhân khác khi chủ thể dữ liệu đồng ý cho phép đại diện và\nủy quyền, trừ trường hợp pháp luật có quy định khác.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 11,
+      "metadata": {
+       "dieu": 14,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1205,
+       "max_size": 800,
+       "dieu_list": [
+        14
+       ],
+       "char_start": 578,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.812202,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:000",
+      "text": "6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 3,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 645,
+       "max_size": 800,
+       "dieu_list": [
+        3
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.810243,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p17:paragraph:000",
+      "text": "3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 17,
+      "metadata": {
+       "dieu": 21,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 225,
+       "max_size": 800,
+       "dieu_list": [
+        21
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.806344,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p16:paragraph:003 | data/13nd.signed.pdf | page 16]\nĐiều 21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới\nthiệu sản phẩm quảng cáo\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt\nđộng kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm\nquảng cáo khi có sự đồng ý của chủ thể dữ liệu.\n\n2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị,\ngiới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở\nkhách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.\n\n[nd13-2023:p17:paragraph:000 | data/13nd.signed.pdf | page 17]\n3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.\n\n[nd13-2023:p33:paragraph:000 | data/13nd.signed.pdf | page 33]\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên: …ồ.GeGeseeeseeeeeeeeeeeeeeeeeeseeseeeesskeeeeskaseesieeekbseenei:\nChức danh: …nnnnnnnnnnnnnnnnnnnnnnnnnnEnnnEnEnE nen 0690900000001000000099991\nSố điện thoại liên lạc (cố định và di động): …neenneenneee nen,\nEmail:…-. Du Vu van n nh kh EE E nan tk E kh b ke nen nen nh nh\n- Hậu quả xảy Tâ:…7011e in ni nen nen nhe ni ni nnn nh nhe na nh nhe ki nh nh:\n- Biện pháp áp dụng:…:...2020e.eeeee nen nen nen nen nen n nhấn\n3. Tài liệu kèm theo\n\n4. Cam kết\n\n(Tên cơ quan, tổ chức, doanh nghiệp) xin cam kết: Chịu trách nhiệm trước\npháp luật về tính chính xác và tính hợp pháp thông tin cung cấp và tài liệu kèm\ntheo.\n\n- Nơi nhận: TM. TÔ CHỨC, DOANH NGHIỆP\n- Như trên; (Ký, ghỉ rõ họ tên, đóng dầu)",
+    "context_ids": [
+     "nd13-2023:p16:paragraph:003",
+     "nd13-2023:p17:paragraph:000",
+     "nd13-2023:p33:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Tổ chức cá nhân kinh doanh dịch vụ tiếp thị giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p17:paragraph:000",
+      "text": "3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 17,
+      "metadata": {
+       "dieu": 21,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 225,
+       "max_size": 800,
+       "dieu_list": [
+        21
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.862067,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p16:paragraph:003",
+      "text": "Điều 21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới\nthiệu sản phẩm quảng cáo\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt\nđộng kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm\nquảng cáo khi có sự đồng ý của chủ thể dữ liệu.\n\n2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị,\ngiới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở\nkhách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 16,
+      "metadata": {
+       "dieu": 21,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2089,
+       "max_size": 800,
+       "dieu_list": [
+        21
+       ],
+       "char_start": 1479,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.817048,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p20:paragraph:003",
+      "text": "h) Có văn bản thể hiện sự ràng buộc, trách nhiệm giữa các tổ chức, cá nhân\nchuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý dữ liệu\ncá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 20,
+      "metadata": {
+       "dieu": 25,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2140,
+       "max_size": 800,
+       "dieu_list": [
+        25
+       ],
+       "char_start": 1982,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.715469,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p16:paragraph:003 | data/13nd.signed.pdf | page 16]\nĐiều 21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới\nthiệu sản phẩm quảng cáo\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt\nđộng kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm\nquảng cáo khi có sự đồng ý của chủ thể dữ liệu.\n\n2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị,\ngiới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở\nkhách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.\n\n[nd13-2023:p17:paragraph:000 | data/13nd.signed.pdf | page 17]\n3. Tỗ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng\ncáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng\nđược giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.\n\n[nd13-2023:p33:paragraph:000 | data/13nd.signed.pdf | page 33]\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên: …ồ.GeGeseeeseeeeeeeeeeeeeeeeeeseeseeeesskeeeeskaseesieeekbseenei:\nChức danh: …nnnnnnnnnnnnnnnnnnnnnnnnnnEnnnEnEnE nen 0690900000001000000099991\nSố điện thoại liên lạc (cố định và di động): …neenneenneee nen,\nEmail:…-. Du Vu van n nh kh EE E nan tk E kh b ke nen nen nh nh\n- Hậu quả xảy Tâ:…7011e in ni nen nen nhe ni ni nnn nh nhe na nh nhe ki nh nh:\n- Biện pháp áp dụng:…:...2020e.eeeee nen nen nen nen nen n nhấn\n3. Tài liệu kèm theo\n\n4. Cam kết\n\n(Tên cơ quan, tổ chức, doanh nghiệp) xin cam kết: Chịu trách nhiệm trước\npháp luật về tính chính xác và tính hợp pháp thông tin cung cấp và tài liệu kèm\ntheo.\n\n- Nơi nhận: TM. TÔ CHỨC, DOANH NGHIỆP\n- Như trên; (Ký, ghỉ rõ họ tên, đóng dầu)\n\n[nd13-2023:p20:paragraph:003 | data/13nd.signed.pdf | page 20]\nh) Có văn bản thể hiện sự ràng buộc, trách nhiệm giữa các tổ chức, cá nhân\nchuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý dữ liệu\ncá nhân.",
+    "context_ids": [
+     "nd13-2023:p16:paragraph:003",
+     "nd13-2023:p17:paragraph:000",
+     "nd13-2023:p33:paragraph:000",
+     "nd13-2023:p20:paragraph:003"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "t04",
+  "question": "Trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo, ai phải chứng minh việc sử dụng dữ liệu cá nhân của khách hàng là đúng quy định?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 3.6,
+    "tokens_in": 511,
+    "tokens_out": 35,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "kinh doanh dịch vụ tiếp thị giới thiệu sản phẩm quảng cáo chứng minh việc sử dụng dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.65,
+    "tokens_in": 1171,
+    "tokens_out": 30,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "chứng minh việc sử dụng dữ liệu cá nhân của khách hàng đúng với quy định"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.18,
+    "tokens_in": 1190,
+    "tokens_out": 35,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Tổ chức cá nhân kinh doanh dịch vụ tiếp thị giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.59,
+    "tokens_in": 1309,
+    "tokens_out": 115,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "answer": "Trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo, tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng được giới thiệu sản phẩm đúng với quy định [nd13-2023:p17:paragraph:000].",
+     "citations": [
+      "nd13-2023:p17:paragraph:000"
+     ]
+    }
+   }
+  ],
+  "elapsed_s": 17.71,
+  "n_searches": 3,
+  "tokens_in": 4181,
+  "tokens_out": 215
+ },
+ {
+  "status": "answered",
+  "answer": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân [nd13-2023:p21:paragraph:003].",
+  "citations": [
+   "nd13-2023:p21:paragraph:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "query": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng từ thời điểm nào",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p21:paragraph:003",
+      "text": "Mục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 21,
+      "metadata": {
+       "dieu": 26,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2237,
+       "max_size": 800,
+       "dieu_list": [
+        25,
+        26
+       ],
+       "char_start": 2021,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.856322,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:000",
+      "text": "6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 3,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 645,
+       "max_size": 800,
+       "dieu_list": [
+        3
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.835668,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:000",
+      "text": "g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 656,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.816882,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p21:paragraph:003 | data/13nd.signed.pdf | page 21]\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.\n\n[nd13-2023:p19:paragraph:000 | data/13nd.signed.pdf | page 19]\ng) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+    "context_ids": [
+     "nd13-2023:p21:paragraph:003",
+     "nd13-2023:p05:paragraph:000",
+     "nd13-2023:p19:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p21:paragraph:003",
+      "text": "Mục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 21,
+      "metadata": {
+       "dieu": 26,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2237,
+       "max_size": 800,
+       "dieu_list": [
+        25,
+        26
+       ],
+       "char_start": 2021,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.886942,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:000",
+      "text": "6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 3,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 645,
+       "max_size": 800,
+       "dieu_list": [
+        3
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.843519,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:000",
+      "text": "g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 656,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.831678,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p21:paragraph:003 | data/13nd.signed.pdf | page 21]\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.\n\n[nd13-2023:p19:paragraph:000 | data/13nd.signed.pdf | page 19]\ng) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+    "context_ids": [
+     "nd13-2023:p21:paragraph:003",
+     "nd13-2023:p05:paragraph:000",
+     "nd13-2023:p19:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p21:paragraph:003",
+      "text": "Mục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 21,
+      "metadata": {
+       "dieu": 26,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 2237,
+       "max_size": 800,
+       "dieu_list": [
+        25,
+        26
+       ],
+       "char_start": 2021,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.886942,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:000",
+      "text": "6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 3,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 645,
+       "max_size": 800,
+       "dieu_list": [
+        3
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.843519,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:000",
+      "text": "g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 656,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.831678,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p21:paragraph:003 | data/13nd.signed.pdf | page 21]\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐÁM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp báo vệ dữ liệu cá nhân\n1, Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và\ntrong suôt quá trình xử lý dữ liệu cá nhân.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.\n\n[nd13-2023:p19:paragraph:000 | data/13nd.signed.pdf | page 19]\ng) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+    "context_ids": [
+     "nd13-2023:p21:paragraph:003",
+     "nd13-2023:p05:paragraph:000",
+     "nd13-2023:p19:paragraph:000"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "query_id": "t05",
+  "question": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng từ thời điểm nào?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 4.09,
+    "tokens_in": 495,
+    "tokens_out": 30,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng từ thời điểm nào"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.17,
+    "tokens_in": 1103,
+    "tokens_out": 30,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.27,
+    "tokens_in": 1122,
+    "tokens_out": 30,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.48,
+    "tokens_in": 1153,
+    "tokens_out": 87,
+    "tokens_thought": 0,
+    "function": "final_answer",
+    "args": {
+     "answer": "Biện pháp bảo vệ dữ liệu cá nhân phải được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân [nd13-2023:p21:paragraph:003].",
+     "citations": [
+      "nd13-2023:p21:paragraph:003"
+     ]
+    }
+   }
+  ],
+  "elapsed_s": 17.71,
+  "n_searches": 3,
+  "tokens_in": 3873,
+  "tokens_out": 177
+ },
+ {
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "query": "nhân sự phụ trách bảo vệ dữ liệu cá nhân bằng cấp chứng chỉ",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p23:paragraph:002",
+      "text": "Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n\n1. Lực lượng bảo vệ dữ liệu cá nhân:\n\na) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định\ntrong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo\nvệ dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\n\n_d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển\nnguồn nhân lực bảo vệ dữ liệu cá nhân.\n\n2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến\nthức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,\ncá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 23,
+      "metadata": {
+       "dieu": 30,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1891,
+       "max_size": 800,
+       "dieu_list": [
+        30
+       ],
+       "char_start": 1177,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.818174,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:003",
+      "text": "5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người\nđược giao làm công tác bảo vệ dữ liệu cá nhân.\n\n6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ\nliệu cá nhân; giải quyết khiêu nại, tô cáo và xử lý vi phạm pháp luật vê bảo vệ\ndữ liệu cá nhân theo quy định của pháp luật.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 5,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 1930,
+       "max_size": 800,
+       "dieu_list": [
+        5
+       ],
+       "char_start": 1614,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.809453,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p05:paragraph:000",
+      "text": "6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 5,
+      "metadata": {
+       "dieu": 3,
+       "chuong": "I",
+       "chunker": "paragraph",
+       "char_end": 645,
+       "max_size": 800,
+       "dieu_list": [
+        3
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.799008,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:002 | data/13nd.signed.pdf | page 23]\nĐiều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n\n1. Lực lượng bảo vệ dữ liệu cá nhân:\n\na) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định\ntrong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo\nvệ dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\n\n_d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển\nnguồn nhân lực bảo vệ dữ liệu cá nhân.\n\n2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến\nthức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,\ncá nhân.\n\n[nd13-2023:p05:paragraph:003 | data/13nd.signed.pdf | page 5]\n5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người\nđược giao làm công tác bảo vệ dữ liệu cá nhân.\n\n6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ\nliệu cá nhân; giải quyết khiêu nại, tô cáo và xử lý vi phạm pháp luật vê bảo vệ\ndữ liệu cá nhân theo quy định của pháp luật.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:002",
+     "nd13-2023:p05:paragraph:003",
+     "nd13-2023:p05:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Điều 30 Nghị định 13 2023 nhân sự phụ trách bảo vệ dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p23:paragraph:002",
+      "text": "Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n\n1. Lực lượng bảo vệ dữ liệu cá nhân:\n\na) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định\ntrong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo\nvệ dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\n\n_d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển\nnguồn nhân lực bảo vệ dữ liệu cá nhân.\n\n2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến\nthức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,\ncá nhân.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 23,
+      "metadata": {
+       "dieu": 30,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1891,
+       "max_size": 800,
+       "dieu_list": [
+        30
+       ],
+       "char_start": 1177,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.819047,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p26:paragraph:001",
+      "text": "Điều 38. Trách nhiệm của Bên Kiếm soát dữ liệu cá nhân\n\n1. Thực hiện các biện pháp tổ chức và kỹ thuật cùng các biện pháp an toàn,\nbảo mật phù hợp đề chứng minh các hoạt động xử lý dữ liệu đã được thực hiện\n\ntheo quy định của pháp luật về bảo vệ dữ liệu cá nhân, rà soát và cập nhật các\nbiện pháp này khi cân thiêt.\n\n2. Ghi lại và lưu trữ nhật ký hệ thống quá trình xử lý dữ liệu cá nhân.\n\n3. Thông báo hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân theo\nquy định tại Điêu 23 Nghị định này.\n\n4. Lựa chọn Bên Xử lý dữ liệu cá nhân phù hợp với nhiệm vụ rõ ràng và\nchỉ làm việc với Bên Xử lý dữ liệu cá nhân có các biện pháp bảo vệ phù hợp.\n\n5. Bảo đảm các quyền của chủ thể dữ liệu theo quy định tại Điều 9 Nghị\nđịnh này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 26,
+      "metadata": {
+       "dieu": 38,
+       "chuong": "III",
+       "chunker": "paragraph",
+       "char_end": 1217,
+       "max_size": 800,
+       "dieu_list": [
+        38
+       ],
+       "char_start": 492,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.789942,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p01:paragraph:000",
+      "text": "U//ñ\n\nCHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nSố: 13/2023/NĐ-CP Hà Nội, ngày 17 tháng 4 năm 2023\n\nCÔNG THÔNG TỊN ĐIỆN TỬ CHÍNH PHÙ\n\nNGHỊ ĐỊNH\nBảo vệ dữ liệu cá nhân -\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đối,\nbề sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền\nđịa phương ngày 22 tháng Ï ] năm 2019;\n\nCăn cư Bộ luật Dân sự ngày 24 tháng Ï] năm 2015;\nCăn cứ Luật Án ninh quốc gia ngày 03 tháng 12 năm 2004;\nCăn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;\nTheo đề nghị của Bộ trưởng Bộ Công an;\nChính phủ bạn hành Nghị định bảo vệ dữ liệu cá nhân.\nĩ Chương I\n\nNHỮNG QUY ĐỊNH CHUNG",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 1,
+      "metadata": {
+       "dieu": null,
+       "chuong": null,
+       "chunker": "paragraph",
+       "char_end": 668,
+       "max_size": 800,
+       "dieu_list": [],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.789363,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:002 | data/13nd.signed.pdf | page 23]\nĐiều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n\n1. Lực lượng bảo vệ dữ liệu cá nhân:\n\na) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định\ntrong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo\nvệ dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\n\n_d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển\nnguồn nhân lực bảo vệ dữ liệu cá nhân.\n\n2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến\nthức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,\ncá nhân.\n\n[nd13-2023:p05:paragraph:003 | data/13nd.signed.pdf | page 5]\n5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người\nđược giao làm công tác bảo vệ dữ liệu cá nhân.\n\n6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ\nliệu cá nhân; giải quyết khiêu nại, tô cáo và xử lý vi phạm pháp luật vê bảo vệ\ndữ liệu cá nhân theo quy định của pháp luật.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:002",
+     "nd13-2023:p05:paragraph:003",
+     "nd13-2023:p05:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "Điều 30 Nghị định 13 2023 chứng chỉ bằng cấp",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p01:paragraph:000",
+      "text": "U//ñ\n\nCHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nSố: 13/2023/NĐ-CP Hà Nội, ngày 17 tháng 4 năm 2023\n\nCÔNG THÔNG TỊN ĐIỆN TỬ CHÍNH PHÙ\n\nNGHỊ ĐỊNH\nBảo vệ dữ liệu cá nhân -\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đối,\nbề sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền\nđịa phương ngày 22 tháng Ï ] năm 2019;\n\nCăn cư Bộ luật Dân sự ngày 24 tháng Ï] năm 2015;\nCăn cứ Luật Án ninh quốc gia ngày 03 tháng 12 năm 2004;\nCăn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;\nTheo đề nghị của Bộ trưởng Bộ Công an;\nChính phủ bạn hành Nghị định bảo vệ dữ liệu cá nhân.\nĩ Chương I\n\nNHỮNG QUY ĐỊNH CHUNG",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 1,
+      "metadata": {
+       "dieu": null,
+       "chuong": null,
+       "chunker": "paragraph",
+       "char_end": 668,
+       "max_size": 800,
+       "dieu_list": [],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.673798,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p27:paragraph:004",
+      "text": "Chương IV\nĐIỀU KHOẢN THỊ HÀNH\n\nĐiều 43. Hiệu lực thi hành\n\n1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.\n\n2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh\nnghiệp khởi nghiệp được quyền lựa chọn miễn trừ quy định về chỉ định cá nhân\n\nvà bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kết từ khi thành\nlập doanh nghiệp.\n\n3. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh\nnghiệp khởi nghiệp trực tiệp kinh doanh hoạt động xử lý dữ liệu cá nhân không\náp dụng quy định tại khoản 2 Điều này.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 27,
+      "metadata": {
+       "dieu": 43,
+       "chuong": "IV",
+       "chunker": "paragraph",
+       "char_end": 1757,
+       "max_size": 800,
+       "dieu_list": [
+        42,
+        43
+       ],
+       "char_start": 1195,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.669652,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p34:paragraph:001",
+      "text": "- Quyết định thành lập/Giấy chứng nhận đăng ký doanh nghiệp/Giấy\nchứng nhận đăng ký kinh doanh/Ciấy chứng nhận đầu tư số: … do … cấp\nngày ... tháng ... năm ... tại ..\n\n- Điện thoại: … Website …-/01////1/6/.7\n\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên:… 1unn in n nh nh nh nn n nh n nh nh tk n nh kh E ke nh nn n n nh\nco .___„ayreem\nSố điện thoại liên lạc (cố định và di động):…e\nlo.\n\n1 Tên tổ chức, doanh nghiệp.",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 34,
+      "metadata": {
+       "dieu": null,
+       "chuong": null,
+       "chunker": "paragraph",
+       "char_end": 1117,
+       "max_size": 800,
+       "dieu_list": [],
+       "char_start": 685,
+       "document_type": "phu_luc"
+      },
+      "score": 0.652085,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p23:paragraph:002 | data/13nd.signed.pdf | page 23]\nĐiều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n\n1. Lực lượng bảo vệ dữ liệu cá nhân:\n\na) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định\ntrong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo\nvệ dữ liệu cá nhân;\n\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\n\n_d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển\nnguồn nhân lực bảo vệ dữ liệu cá nhân.\n\n2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến\nthức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,\ncá nhân.\n\n[nd13-2023:p05:paragraph:003 | data/13nd.signed.pdf | page 5]\n5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người\nđược giao làm công tác bảo vệ dữ liệu cá nhân.\n\n6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ\nliệu cá nhân; giải quyết khiêu nại, tô cáo và xử lý vi phạm pháp luật vê bảo vệ\ndữ liệu cá nhân theo quy định của pháp luật.\n\n[nd13-2023:p05:paragraph:000 | data/13nd.signed.pdf | page 5]\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá\ntrình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo\nvệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự\ncố, sử dụng các biện pháp kỹ thuật.\n\n7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với\nmục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n\n8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải\nchịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1\ntới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc\nxử lý dữ liệu đó.\n\n[nd13-2023:p34:paragraph:001 | data/13nd.signed.pdf | page 34]\n- Quyết định thành lập/Giấy chứng nhận đăng ký doanh nghiệp/Giấy\nchứng nhận đăng ký kinh doanh/Ciấy chứng nhận đầu tư số: … do … cấp\nngày ... tháng ... năm ... tại ..\n\n- Điện thoại: … Website …-/01////1/6/.7\n\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:…\nHọ và tên:… 1unn in n nh nh nh nn n nh n nh nh tk n nh kh E ke nh nn n n nh\nco .___„ayreem\nSố điện thoại liên lạc (cố định và di động):…e\nlo.\n\n1 Tên tổ chức, doanh nghiệp.",
+    "context_ids": [
+     "nd13-2023:p23:paragraph:002",
+     "nd13-2023:p05:paragraph:003",
+     "nd13-2023:p05:paragraph:000",
+     "nd13-2023:p34:paragraph:001"
+    ]
+   },
+   {
+    "event": "invalid_or_missing_citations"
+   }
+  ],
+  "query_id": "u03",
+  "question": "Nhân sự phụ trách bảo vệ dữ liệu cá nhân phải có bằng cấp hoặc chứng chỉ gì?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 4.3,
+    "tokens_in": 496,
+    "tokens_out": 28,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "nhân sự phụ trách bảo vệ dữ liệu cá nhân bằng cấp chứng chỉ"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.38,
+    "tokens_in": 1119,
+    "tokens_out": 37,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Điều 30 Nghị định 13 2023 nhân sự phụ trách bảo vệ dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.57,
+    "tokens_in": 1145,
+    "tokens_out": 31,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "Điều 30 Nghị định 13 2023 chứng chỉ bằng cấp"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.18,
+    "tokens_in": 1363,
+    "tokens_out": 40,
+    "tokens_thought": 0,
+    "function": "abstain",
+    "args": {
+     "reason": "Context không chứa thông tin về bằng cấp hoặc chứng chỉ yêu cầu đối với nhân sự phụ trách bảo vệ dữ liệu cá nhân."
+    }
+   }
+  ],
+  "elapsed_s": 18.12,
+  "n_searches": 3,
+  "tokens_in": 4123,
+  "tokens_out": 136
+ },
+ {
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "query": "lệ phí thẩm định hồ sơ đánh giá tác động xử lý dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p18:paragraph:002",
+      "text": "Điều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 18,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1654,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 887,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.810717,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:002",
+      "text": "3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1992,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 1273,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.805335,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p20:paragraph:000",
+      "text": "xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.\n\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ\nliệu cá nhân khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục\nAn ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số\n05 tại Phụ lục của Nghị định này.\n\n.+À Ẩ ~ FA H ˆ M ì",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 20,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 515,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.792408,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p18:paragraph:002 | data/13nd.signed.pdf | page 18]\nĐiều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;\n\n[nd13-2023:p19:paragraph:002 | data/13nd.signed.pdf | page 19]\n3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và\n\n[nd13-2023:p20:paragraph:000 | data/13nd.signed.pdf | page 20]\nxử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.\n\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ\nliệu cá nhân khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục\nAn ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số\n05 tại Phụ lục của Nghị định này.\n\n.+À Ẩ ~ FA H ˆ M ì",
+    "context_ids": [
+     "nd13-2023:p18:paragraph:002",
+     "nd13-2023:p19:paragraph:002",
+     "nd13-2023:p20:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "lệ phí thẩm định đánh giá tác động xử lý dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p18:paragraph:002",
+      "text": "Điều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 18,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1654,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 887,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.805619,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:002",
+      "text": "3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1992,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 1273,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.792444,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:000",
+      "text": "g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 656,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.79128,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p18:paragraph:002 | data/13nd.signed.pdf | page 18]\nĐiều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;\n\n[nd13-2023:p19:paragraph:002 | data/13nd.signed.pdf | page 19]\n3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và\n\n[nd13-2023:p20:paragraph:000 | data/13nd.signed.pdf | page 20]\nxử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.\n\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ\nliệu cá nhân khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục\nAn ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số\n05 tại Phụ lục của Nghị định này.\n\n.+À Ẩ ~ FA H ˆ M ì",
+    "context_ids": [
+     "nd13-2023:p18:paragraph:002",
+     "nd13-2023:p19:paragraph:002",
+     "nd13-2023:p20:paragraph:000"
+    ]
+   },
+   {
+    "event": "search",
+    "query": "lệ phí phí thẩm định đánh giá tác động xử lý dữ liệu cá nhân",
+    "filter": null,
+    "results": [
+     {
+      "id": "nd13-2023:p18:paragraph:002",
+      "text": "Điều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 18,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1654,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 887,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.803813,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:002",
+      "text": "3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 1992,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 1273,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.790439,
+      "strategy": "dense"
+     },
+     {
+      "id": "nd13-2023:p19:paragraph:000",
+      "text": "g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xoá, hủy dữ liệu\ncá nhân (nêu có);\n\nh) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng:\n\n1) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,\nthiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc\nloại bỏ nguy cơ, tác hại đó.\n\n2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm\nsoát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên\nXử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiết liên lạc của Bên Xử lý dữ liệu cá nhân;",
+      "source_id": "nd13-2023",
+      "source": "data/13nd.signed.pdf",
+      "page": 19,
+      "metadata": {
+       "dieu": 24,
+       "chuong": "II",
+       "chunker": "paragraph",
+       "char_end": 656,
+       "max_size": 800,
+       "dieu_list": [
+        24
+       ],
+       "char_start": 0,
+       "document_type": "nghi_dinh"
+      },
+      "score": 0.790189,
+      "strategy": "dense"
+     }
+    ],
+    "context": "[nd13-2023:p18:paragraph:002 | data/13nd.signed.pdf | page 18]\nĐiều 24. Đánh giá tác động xử lý dữ liệu cá nhân\n\n1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nlập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kế từ\nthời điểm bắt đầu xử lý dữ liệu cá nhân.\n\nHồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiếm soát dữ liệu\ncá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:\n\na) Thông tin và chỉ tiệt liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên\nKiêm soát và xử lý dữ liệu cá nhân;\n\nb) Họ tên, chỉ tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ\nbảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;\n\nc) Mục đích xử lý dữ liệu cá nhân;\nd) Các loại dữ liệu cá nhân được xử lý;\n\n[nd13-2023:p19:paragraph:002 | data/13nd.signed.pdf | page 19]\n3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và\nkhoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm\nsoát dữ liệu cá nhân, Bên Kiếm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý\ndữ liệu cá nhân.\n\n4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục\nvụ hoạt động kiếm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo\nMẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiền\nhành xử lý dữ liệu cá nhân.\n\n5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công\nnghệ cao) đánh giá, yêu câu Bên Kiêm soát dữ liệu cá nhân, Bên Kiêm soát và\n\n[nd13-2023:p20:paragraph:000 | data/13nd.signed.pdf | page 20]\nxử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác\nđộng xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.\n\n6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân,\nBên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ\nliệu cá nhân khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục\nAn ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số\n05 tại Phụ lục của Nghị định này.\n\n.+À Ẩ ~ FA H ˆ M ì",
+    "context_ids": [
+     "nd13-2023:p18:paragraph:002",
+     "nd13-2023:p19:paragraph:002",
+     "nd13-2023:p20:paragraph:000"
+    ]
+   },
+   {
+    "event": "invalid_or_missing_citations"
+   }
+  ],
+  "query_id": "u04",
+  "question": "Lệ phí thẩm định hồ sơ đánh giá tác động xử lý dữ liệu cá nhân là bao nhiêu?",
+  "filter": null,
+  "model_calls": [
+   {
+    "allowed": [
+     "search"
+    ],
+    "latency_s": 4.61,
+    "tokens_in": 498,
+    "tokens_out": 30,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "lệ phí thẩm định hồ sơ đánh giá tác động xử lý dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 3.88,
+    "tokens_in": 1245,
+    "tokens_out": 28,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "lệ phí thẩm định đánh giá tác động xử lý dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "search",
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.53,
+    "tokens_in": 1262,
+    "tokens_out": 29,
+    "tokens_thought": 0,
+    "function": "search",
+    "args": {
+     "query": "lệ phí phí thẩm định đánh giá tác động xử lý dữ liệu cá nhân"
+    }
+   },
+   {
+    "allowed": [
+     "final_answer",
+     "abstain"
+    ],
+    "latency_s": 4.09,
+    "tokens_in": 1292,
+    "tokens_out": 37,
+    "tokens_thought": 0,
+    "function": "abstain",
+    "args": {
+     "reason": "Context không chứa thông tin về lệ phí thẩm định hồ sơ đánh giá tác động xử lý dữ liệu cá nhân."
+    }
+   }
+  ],
+  "elapsed_s": 17.81,
+  "n_searches": 3,
+  "tokens_in": 4297,
+  "tokens_out": 124
+ }
+]

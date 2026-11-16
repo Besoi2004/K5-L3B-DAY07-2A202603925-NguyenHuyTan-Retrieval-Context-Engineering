@@ -1,0 +1,51 @@
+{
+  "split": "test",
+  "n_questions": 5,
+  "budget_chars": 2400,
+  "top_k": 3,
+  "embedding": "google/embeddinggemma-2:float32 (Day 6 index B, 113 chunks)",
+  "methods": {
+    "dense": {
+      "hit1": {
+        "n": 3,
+        "N": 5,
+        "rate": 0.6
+      },
+      "evidence_hit3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "avg_context_chars": 1840,
+      "median_search_ms": 204.3,
+      "misses_at_3": [],
+      "cost_usd": 0
+    },
+    "hybrid_rrf": {
+      "hit1": {
+        "n": 3,
+        "N": 5,
+        "rate": 0.6
+      },
+      "evidence_hit3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "avg_context_chars": 1952,
+      "median_search_ms": 169.2,
+      "misses_at_3": [],
+      "cost_usd": 0
+    }
+  }
+}

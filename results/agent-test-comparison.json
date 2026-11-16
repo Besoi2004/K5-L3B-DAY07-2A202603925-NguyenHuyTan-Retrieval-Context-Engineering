@@ -1,0 +1,52 @@
+{
+  "dense-k3-b2400-s3": {
+    "n": 7,
+    "errors": 0,
+    "context_evidence": 4,
+    "answerable": 5,
+    "answered_answerable": 4,
+    "abstained_unanswerable": 2,
+    "unanswerable": 2,
+    "cited_gold": 4,
+    "answered": 4,
+    "correct_behaviour": 6,
+    "avg_searches": 2.71,
+    "llm_calls": 26,
+    "tokens_in": 26422,
+    "tokens_out": 1118,
+    "median_elapsed_s": 17.71,
+    "misses": {
+      "context": [
+        "t03"
+      ],
+      "false_abstain": [
+        "t03"
+      ],
+      "not_abstained": [],
+      "cited_not_gold": []
+    }
+  },
+  "hybrid-orig-early-strict": {
+    "n": 7,
+    "errors": 0,
+    "context_evidence": 5,
+    "answerable": 5,
+    "answered_answerable": 5,
+    "abstained_unanswerable": 2,
+    "unanswerable": 2,
+    "cited_gold": 5,
+    "answered": 5,
+    "correct_behaviour": 7,
+    "avg_searches": 1.57,
+    "llm_calls": 11,
+    "tokens_in": 14291,
+    "tokens_out": 692,
+    "median_elapsed_s": 4.4,
+    "misses": {
+      "context": [],
+      "false_abstain": [],
+      "not_abstained": [],
+      "cited_not_gold": []
+    }
+  }
+}
