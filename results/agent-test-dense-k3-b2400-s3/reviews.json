@@ -1,0 +1,16 @@
+[
+  {"query_id": "t01", "answer_grade": 2, "citation_support": [true], "context_grade": 1,
+   "reason": "Đúng: nêu được trường hợp ngoại lệ cơ quan nhà nước nên không phải thông báo. Chunk p11:000 (Điều 13 khoản 4 điểm b) chứa nguyên văn ngoại lệ. Context 1: chunk chỉ ghi 'không cần thực hiện quy định tại khoản 1 Điều này', thiếu tiêu đề Điều 13 và nội dung khoản 1 (thông báo trước khi xử lý); agent suy ra 'thông báo' từ câu hỏi."},
+  {"query_id": "t02", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng và đủ (không trở thành bất hợp pháp), dù không mở đầu bằng 'Không'. Chunk p10:001 là Điều 12 khoản 1, khớp nguyên văn."},
+  {"query_id": "t03", "answer_grade": 0, "citation_support": [], "context_grade": 0,
+   "reason": "Từ chối câu có đáp án. Agent viết lại query thành 'xóa không thể khôi phục hoặc hủy thiết bị...' (bỏ 'kiểm tra'); 3 lượt tìm đều ra p13, p14, p27; không có Điều 27 (tr. 22) trong context."},
+  {"query_id": "t04", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng chủ thể (tổ chức, cá nhân kinh doanh dịch vụ tiếp thị). Chunk p17:000 là Điều 21 khoản 3, có p16:003 (tiêu đề Điều 21) trong context."},
+  {"query_id": "t05", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng nguyên văn Điều 26 khoản 1; chunk p21:003 có cả tiêu đề Điều 26."},
+  {"query_id": "u03", "citation_support": [], "abstention_correct": true,
+   "reason": "Từ chối, lý do 'context không chứa thông tin về bằng cấp hoặc chứng chỉ'; không thêm khẳng định nào."},
+  {"query_id": "u04", "citation_support": [], "abstention_correct": true,
+   "reason": "Từ chối, lý do không có thông tin về lệ phí thẩm định; không bịa con số."}
+]

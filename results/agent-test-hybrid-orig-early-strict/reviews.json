@@ -1,0 +1,16 @@
+[
+  {"query_id": "t01", "answer_grade": 2, "citation_support": [true], "context_grade": 1,
+   "reason": "Đúng: cơ quan nhà nước xử lý để phục vụ hoạt động thì không cần thông báo. Chunk p11:000 (Điều 13 khoản 4 điểm b) chứa nguyên văn ngoại lệ. Context 1 (giống baseline): thiếu tiêu đề Điều 13 và khoản 1 nói về thông báo; 'khoản 1 Điều này' trong chunk không tự rõ nghĩa."},
+  {"query_id": "t02", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng và đủ; chunk p10:001 là Điều 12 khoản 1, khớp nguyên văn."},
+  {"query_id": "t03", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng: kiểm tra an ninh mạng đối với hệ thống, phương tiện, thiết bị phục vụ xử lý dữ liệu cá nhân. Lượt tìm đầu dùng nguyên câu hỏi lấy được p22:001 (Điều 27, có tiêu đề) ngay hạng 1."},
+  {"query_id": "t04", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng chủ thể; chunk p17:000 là Điều 21 khoản 3, có p16:003 (tiêu đề Điều 21) trong context. Câu trả lời lược bỏ 'được giới thiệu sản phẩm' nhưng không đổi nghĩa."},
+  {"query_id": "t05", "answer_grade": 2, "citation_support": [true], "context_grade": 2,
+   "reason": "Đúng nguyên văn Điều 26 khoản 1; chunk p21:003 có tiêu đề Điều 26."},
+  {"query_id": "u03", "citation_support": [], "abstention_correct": true,
+   "reason": "Từ chối, nói rõ 'tài liệu không quy định cụ thể về bằng cấp hoặc chứng chỉ'; không thêm khẳng định."},
+  {"query_id": "u04", "citation_support": [], "abstention_correct": true,
+   "reason": "Từ chối, nói rõ 'tài liệu không quy định mức lệ phí cụ thể'; không bịa con số."}
+]
