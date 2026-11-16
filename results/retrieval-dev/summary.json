@@ -1,0 +1,107 @@
+{
+  "split": "dev",
+  "n_questions": 22,
+  "budget_chars": 2400,
+  "top_k": 3,
+  "embedding": "google/embeddinggemma-2:float32 (Day 6 index B, 113 chunks)",
+  "methods": {
+    "dense": {
+      "hit1": {
+        "n": 16,
+        "N": 22,
+        "rate": 0.727
+      },
+      "evidence_hit3": {
+        "n": 21,
+        "N": 22,
+        "rate": 0.955
+      },
+      "context_evidence_rate": {
+        "n": 21,
+        "N": 22,
+        "rate": 0.955
+      },
+      "avg_context_chars": 1951,
+      "median_search_ms": 171.6,
+      "misses_at_3": [
+        "q21"
+      ],
+      "cost_usd": 0
+    },
+    "bm25": {
+      "hit1": {
+        "n": 17,
+        "N": 22,
+        "rate": 0.773
+      },
+      "evidence_hit3": {
+        "n": 19,
+        "N": 22,
+        "rate": 0.864
+      },
+      "context_evidence_rate": {
+        "n": 19,
+        "N": 22,
+        "rate": 0.864
+      },
+      "avg_context_chars": 1942,
+      "median_search_ms": 1.1,
+      "misses_at_3": [
+        "q14",
+        "q18",
+        "q21"
+      ],
+      "cost_usd": 0
+    },
+    "hybrid_rrf": {
+      "hit1": {
+        "n": 17,
+        "N": 22,
+        "rate": 0.773
+      },
+      "evidence_hit3": {
+        "n": 21,
+        "N": 22,
+        "rate": 0.955
+      },
+      "context_evidence_rate": {
+        "n": 21,
+        "N": 22,
+        "rate": 0.955
+      },
+      "avg_context_chars": 2016,
+      "median_search_ms": 175.9,
+      "misses_at_3": [
+        "q21"
+      ],
+      "cost_usd": 0
+    },
+    "tfidf": {
+      "hit1": {
+        "n": 14,
+        "N": 22,
+        "rate": 0.636
+      },
+      "evidence_hit3": {
+        "n": 17,
+        "N": 22,
+        "rate": 0.773
+      },
+      "context_evidence_rate": {
+        "n": 17,
+        "N": 22,
+        "rate": 0.773
+      },
+      "avg_context_chars": 1988,
+      "median_search_ms": 0.5,
+      "misses_at_3": [
+        "q03",
+        "q13",
+        "q14",
+        "q18",
+        "q21"
+      ],
+      "cost_usd": 0
+    }
+  }
+}
